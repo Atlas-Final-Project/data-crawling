@@ -1,937 +1,937 @@
 [
   {
-    "공관명": "주두바이 대한민국 총영사관",
-    "전화번호": "(+971) 4 344-9200",
-    "주소": "Villa #12, Street 29b, Jumeirah 2, Dubai"
+    "mission_name": "주두바이 대한민국 총영사관",
+    "phone_number": "(+971) 4 344-9200",
+    "address": "Villa #12, Street 29b, Jumeirah 2, Dubai"
   },
   {
-    "공관명": "주아랍에미리트 대한민국 대사관",
-    "전화번호": "(대표전화) (971-2) 441-1520 / (영사민원실) (971-2) 641-6406",
-    "주소": "P.O.BOX 3270, Abu Duabi, UAE (Embassies Area)"
+    "mission_name": "주아랍에미리트 대한민국 대사관",
+    "phone_number": "(대표전화) (971-2) 441-1520 / (영사민원실) (971-2) 641-6406",
+    "address": "P.O.BOX 3270, Abu Duabi, UAE (Embassies Area)"
   },
   {
-    "공관명": "주아프가니스탄 대한민국 대사관",
-    "전화번호": "근무시간 내 : +974-4463-9555, 외 : +82-2-3210-0404(통화요금 부과)",
-    "주소": "15th, Tornado Tower, Bldg. 17, Zone 60, St. No. 810, Majlis Al Taawon St., West Bay, Doha, Qatar"
+    "mission_name": "주아프가니스탄 대한민국 대사관",
+    "phone_number": "근무시간 내 : +974-4463-9555, 외 : +82-2-3210-0404(통화요금 부과)",
+    "address": "15th, Tornado Tower, Bldg. 17, Zone 60, St. No. 810, Majlis Al Taawon St., West Bay, Doha, Qatar"
   },
   {
-    "공관명": "주앙골라 대한민국 대사관",
-    "전화번호": "(244)222-778-794",
-    "주소": "Condominio Zenith, Torre 1, 3 Andar, Via AL 16, Luanda-Sul Talatona, Angola"
+    "mission_name": "주앙골라 대한민국 대사관",
+    "phone_number": "(244)222-778-794",
+    "address": "Condominio Zenith, Torre 1, 3 Andar, Via AL 16, Luanda-Sul Talatona, Angola"
   },
   {
-    "공관명": "주아르헨티나 대한민국 대사관",
-    "전화번호": "(54-11) 4802-8062 8865",
-    "주소": "Av. del Libertador 2395 Cap. Fed. (1425) Bs.As. Argentina"
+    "mission_name": "주아르헨티나 대한민국 대사관",
+    "phone_number": "(54-11) 4802-8062 8865",
+    "address": "Av. del Libertador 2395 Cap. Fed. (1425) Bs.As. Argentina"
   },
   {
-    "공관명": "주아세안 대한민국 대표부",
-    "전화번호": "+62 21 5795 1830",
-    "주소": "Sentral Senayan II, 23F. JL. Asia Afrika No.8, Gelora Bung Karno Jakarta 10270"
+    "mission_name": "주아세안 대한민국 대표부",
+    "phone_number": "+62 21 5795 1830",
+    "address": "Sentral Senayan II, 23F. JL. Asia Afrika No.8, Gelora Bung Karno Jakarta 10270"
   },
   {
-    "공관명": "주오스트리아 대한민국 대사관 겸 주빈 국제기구대표부",
-    "전화번호": "(43-1) 478-1991",
-    "주소": "Gregor-Mendel Strasse 25, A-1180 Vienna, Austria"
+    "mission_name": "주오스트리아 대한민국 대사관 겸 주빈 국제기구대표부",
+    "phone_number": "(43-1) 478-1991",
+    "address": "Gregor-Mendel Strasse 25, A-1180 Vienna, Austria"
   },
   {
-    "공관명": "주브리즈번 대한민국 출장소",
-    "전화번호": "(61-7) 3221-1440",
-    "주소": "Level 1, 102 Adelaide St, Brisbane City QLD 4000"
+    "mission_name": "주브리즈번 대한민국 출장소",
+    "phone_number": "(61-7) 3221-1440",
+    "address": "Level 1, 102 Adelaide St, Brisbane City QLD 4000"
   },
   {
-    "공관명": "주호주 대한민국 대사관",
-    "전화번호": "+61-2-6270-4100(대표)",
-    "주소": "113 Empire Circuit, Yarralumla ACT 2600, Australia"
+    "mission_name": "주호주 대한민국 대사관",
+    "phone_number": "+61-2-6270-4100(대표)",
+    "address": "113 Empire Circuit, Yarralumla ACT 2600, Australia"
   },
   {
-    "공관명": "주호주연방 대한민국 대사관 멜번 분관",
-    "전화번호": "(61-3) 9533-3800",
-    "주소": "Level 10, 636 St Kilda Road, Melbourne VIC 3004, Australia"
+    "mission_name": "주호주연방 대한민국 대사관 멜번 분관",
+    "phone_number": "(61-3) 9533-3800",
+    "address": "Level 10, 636 St Kilda Road, Melbourne VIC 3004, Australia"
   },
   {
-    "공관명": "주시드니 대한민국 총영사관",
-    "전화번호": "(61-2) 9210-0200",
-    "주소": "Level 10, 44 Market Street, Sydney, NSW 2000"
+    "mission_name": "주시드니 대한민국 총영사관",
+    "phone_number": "(61-2) 9210-0200",
+    "address": "Level 10, 44 Market Street, Sydney, NSW 2000"
   },
   {
-    "공관명": "주아제르바이잔공화국 대한민국 대사관",
-    "전화번호": "(994-12) 498-3950~3",
-    "주소": "ISR Plaza 14th floor, 69 Nizami street, Baku, AZ1005, Republic of Azerbaijan"
+    "mission_name": "주아제르바이잔공화국 대한민국 대사관",
+    "phone_number": "(994-12) 498-3950~3",
+    "address": "ISR Plaza 14th floor, 69 Nizami street, Baku, AZ1005, Republic of Azerbaijan"
   },
   {
-    "공관명": "주방글라데시 대한민국 대사관",
-    "전화번호": "(880-2) 5881-2088~90",
-    "주소": "4, Madani Avenue, Baridhara, Dhaka-1212 Bangladesh"
+    "mission_name": "주방글라데시 대한민국 대사관",
+    "phone_number": "(880-2) 5881-2088~90",
+    "address": "4, Madani Avenue, Baridhara, Dhaka-1212 Bangladesh"
   },
   {
-    "공관명": "주북대서양조약기구 대한민국 대표부",
-    "전화번호": "+32 (0)2 675 5777",
-    "주소": "Chaussee de la Hulpe 173-175, 1170 Brussels, Belgium"
+    "mission_name": "주북대서양조약기구 대한민국 대표부",
+    "phone_number": "+32 (0)2 675 5777",
+    "address": "Chaussee de la Hulpe 173-175, 1170 Brussels, Belgium"
   },
   {
-    "공관명": "주불가리아 대한민국 대사관",
-    "전화번호": "+359 (0)2 971 2181",
-    "주소": "2V, Srebarna str., Mobi Art Building, fl4. 1407, Sofia, Bulgaria"
+    "mission_name": "주불가리아 대한민국 대사관",
+    "phone_number": "+359 (0)2 971 2181",
+    "address": "2V, Srebarna str., Mobi Art Building, fl4. 1407, Sofia, Bulgaria"
   },
   {
-    "공관명": "주바레인왕국 대한민국 대사관",
-    "전화번호": "973) 1753 1120",
-    "주소": "Villa 401, Road 915, Block 309, Salmaniya, Manama, Kingdom of Bahrain"
+    "mission_name": "주바레인왕국 대한민국 대사관",
+    "phone_number": "973) 1753 1120",
+    "address": "Villa 401, Road 915, Block 309, Salmaniya, Manama, Kingdom of Bahrain"
   },
   {
-    "공관명": "주브루나이 대한민국 대사관",
-    "전화번호": "(673) 233-0248~49",
-    "주소": "Lot No. 24160, Simpang 336, Diplomatic Enclave, Jalan Kebangsaan, Kampong Kianggeh, Bandar Seri Beg"
+    "mission_name": "주브루나이 대한민국 대사관",
+    "phone_number": "(673) 233-0248~49",
+    "address": "Lot No. 24160, Simpang 336, Diplomatic Enclave, Jalan Kebangsaan, Kampong Kianggeh, Bandar Seri Beg"
   },
   {
-    "공관명": "주볼리비아 대한민국 대사관",
-    "전화번호": "(591-2)211-0361~3",
-    "주소": "Av. Ballivian #555, Calle 11-12, Edificio El Dorial, Piso 3, Calacoto, La Paz, Bolivia"
+    "mission_name": "주볼리비아 대한민국 대사관",
+    "phone_number": "(591-2)211-0361~3",
+    "address": "Av. Ballivian #555, Calle 11-12, Edificio El Dorial, Piso 3, Calacoto, La Paz, Bolivia"
   },
   {
-    "공관명": "주브라질 대한민국 대사관",
-    "전화번호": "(55-61) 3321-2500",
-    "주소": "SEN Av. das Nacoes Lote 14, Brasilia-DF, Brazil CEP: 70436-900"
+    "mission_name": "주브라질 대한민국 대사관",
+    "phone_number": "(55-61) 3321-2500",
+    "address": "SEN Av. das Nacoes Lote 14, Brasilia-DF, Brazil CEP: 70436-900"
   },
   {
-    "공관명": "주상파울루 대한민국 총영사관",
-    "전화번호": "(+55-11) 3141-1278",
-    "주소": "Av. Paulista, 37 - Cj. 81 - Bela Vista - Sao Paulo - SP - Brasil (CEP: 01311-902)"
+    "mission_name": "주상파울루 대한민국 총영사관",
+    "phone_number": "(+55-11) 3141-1278",
+    "address": "Av. Paulista, 37 - Cj. 81 - Bela Vista - Sao Paulo - SP - Brasil (CEP: 01311-902)"
   },
   {
-    "공관명": "주벨라루스 대한민국 대사관",
-    "전화번호": "대표전화 : (375-17) 215-0170",
-    "주소": "Storozhevskaya str.10, Minsk, Belarus"
+    "mission_name": "주벨라루스 대한민국 대사관",
+    "phone_number": "대표전화 : (375-17) 215-0170",
+    "address": "Storozhevskaya str.10, Minsk, Belarus"
   },
   {
-    "공관명": "주캐나다 대한민국 대사관",
-    "전화번호": "(1-613) 244-5010",
-    "주소": "150 Boteler Street, Ottawa, Ontario, K1N 5A6, Canada"
+    "mission_name": "주캐나다 대한민국 대사관",
+    "phone_number": "(1-613) 244-5010",
+    "address": "150 Boteler Street, Ottawa, Ontario, K1N 5A6, Canada"
   },
   {
-    "공관명": "주몬트리올 대한민국 총영사관 겸 주국제민간항공기구대표부",
-    "전화번호": "+1-514-845-2555",
-    "주소": "1250 Rene-Levesque Bld. West, Suite 3600(36층), Montreal Quebec, Canada, H3B 4W8"
+    "mission_name": "주몬트리올 대한민국 총영사관 겸 주국제민간항공기구대표부",
+    "phone_number": "+1-514-845-2555",
+    "address": "1250 Rene-Levesque Bld. West, Suite 3600(36층), Montreal Quebec, Canada, H3B 4W8"
   },
   {
-    "공관명": "주토론토 대한민국 총영사관",
-    "전화번호": "(1-416) 920-3809",
-    "주소": "555 Avenue Road, Toronto, Ontario, Canada, M4V 2J7"
+    "mission_name": "주토론토 대한민국 총영사관",
+    "phone_number": "(1-416) 920-3809",
+    "address": "555 Avenue Road, Toronto, Ontario, Canada, M4V 2J7"
   },
   {
-    "공관명": "주밴쿠버 대한민국 총영사관",
-    "전화번호": "1 (604-681-9581)",
-    "주소": "1600, 1090 West Georgia St. Vancouver, BC Canada V6E 3V7"
+    "mission_name": "주밴쿠버 대한민국 총영사관",
+    "phone_number": "1 (604-681-9581)",
+    "address": "1600, 1090 West Georgia St. Vancouver, BC Canada V6E 3V7"
   },
   {
-    "공관명": "주콩고민주공화국 대한민국 대사관",
-    "전화번호": "(243)(0)821-911-712",
-    "주소": "63 Av. de la Justice, C/Gombe, Kinshasa, DR Congo"
+    "mission_name": "주콩고민주공화국 대한민국 대사관",
+    "phone_number": "(243)(0)821-911-712",
+    "address": "63 Av. de la Justice, C/Gombe, Kinshasa, DR Congo"
   },
   {
-    "공관명": "주제네바 대한민국 대표부",
-    "전화번호": "(41-22) 748-0000",
-    "주소": "1 Avenue de l＇Ariana, Case Postale 42, 1211 Geneva 20, Switzerland"
+    "mission_name": "주제네바 대한민국 대표부",
+    "phone_number": "(41-22) 748-0000",
+    "address": "1 Avenue de l＇Ariana, Case Postale 42, 1211 Geneva 20, Switzerland"
   },
   {
-    "공관명": "주스위스 대한민국 대사관",
-    "전화번호": "(41-31) 356-2444, (41-31) 356-2424",
-    "주소": "Embassy of the Republic of Korea, Kalcheggweg 38, P.O. Box 1220, 3000 Bern 16, Switzerland"
+    "mission_name": "주스위스 대한민국 대사관",
+    "phone_number": "(41-31) 356-2444, (41-31) 356-2424",
+    "address": "Embassy of the Republic of Korea, Kalcheggweg 38, P.O. Box 1220, 3000 Bern 16, Switzerland"
   },
   {
-    "공관명": "주코트디부아르 대한민국 대사관",
-    "전화번호": "(225)27- 2248-6701 / 6703",
-    "주소": "Rue Sainte Marie, Lot 18-19, Cocody, Abidjan, Côte d’Ivoire (Postal code : 01 BP 3950)"
+    "mission_name": "주코트디부아르 대한민국 대사관",
+    "phone_number": "(225)27- 2248-6701 / 6703",
+    "address": "Rue Sainte Marie, Lot 18-19, Cocody, Abidjan, Côte d’Ivoire (Postal code : 01 BP 3950)"
   },
   {
-    "공관명": "주칠레 대한민국 대사관",
-    "전화번호": "(56-2) 2729-3999",
-    "주소": "Alcántara 74, Las Condes, Santiago, Chile"
+    "mission_name": "주칠레 대한민국 대사관",
+    "phone_number": "(56-2) 2729-3999",
+    "address": "Alcántara 74, Las Condes, Santiago, Chile"
   },
   {
-    "공관명": "주카메룬 대한민국 대사관",
-    "전화번호": "+237-222-203-891",
-    "주소": "House No. 85, Rosa Park Avenue, Ntougou Golf, P.O Box 13286"
+    "mission_name": "주카메룬 대한민국 대사관",
+    "phone_number": "+237-222-203-891",
+    "address": "House No. 85, Rosa Park Avenue, Ntougou Golf, P.O Box 13286"
   },
   {
-    "공관명": "주청두 대한민국 총영사관",
-    "전화번호": "(86-28) 8616-5800",
-    "주소": "14F, Square One, 18 Dongyu St, JInjiang District, Chengdu, Sichuan 610016, P.R.China"
+    "mission_name": "주청두 대한민국 총영사관",
+    "phone_number": "(86-28) 8616-5800",
+    "address": "14F, Square One, 18 Dongyu St, JInjiang District, Chengdu, Sichuan 610016, P.R.China"
   },
   {
-    "공관명": "주다롄 대한민국 출장소",
-    "전화번호": "86-411-8235-6288",
-    "주소": "33F, Hongyuan Building, Renmin Road, Zhongshan District, Dalian, China"
+    "mission_name": "주다롄 대한민국 출장소",
+    "phone_number": "86-411-8235-6288",
+    "address": "33F, Hongyuan Building, Renmin Road, Zhongshan District, Dalian, China"
   },
   {
-    "공관명": "주광저우 대한민국 총영사관",
-    "전화번호": "(86-20) 2919-2999",
-    "주소": "No. 18, Youlin Road 3, Chigang Consulate Area, Haizhu District, Guangzhou, China 510310"
+    "mission_name": "주광저우 대한민국 총영사관",
+    "phone_number": "(86-20) 2919-2999",
+    "address": "No. 18, Youlin Road 3, Chigang Consulate Area, Haizhu District, Guangzhou, China 510310"
   },
   {
-    "공관명": "주중국 대한민국 대사관",
-    "전화번호": "(86-10) 8531-0700",
-    "주소": "No.20, DongfangdongLu Chaoyang District, Beijing, China 100600 (中國 北京市 朝陽區 東方東路 20號, 100600)"
+    "mission_name": "주중국 대한민국 대사관",
+    "phone_number": "(86-10) 8531-0700",
+    "address": "No.20, DongfangdongLu Chaoyang District, Beijing, China 100600 (中國 北京市 朝陽區 東方東路 20號, 100600)"
   },
   {
-    "공관명": "주칭다오 대한민국 총영사관",
-    "전화번호": "(86-532) 8897-6001",
-    "주소": "#88 Chunyang Rd., Chengyang District, Qingdao 266109, China"
+    "mission_name": "주칭다오 대한민국 총영사관",
+    "phone_number": "(86-532) 8897-6001",
+    "address": "#88 Chunyang Rd., Chengyang District, Qingdao 266109, China"
   },
   {
-    "공관명": "주상하이 대한민국 총영사관",
-    "전화번호": "(86-21) 6295-5000",
-    "주소": "60 Wan Shan Road, Shanghai, China"
+    "mission_name": "주상하이 대한민국 총영사관",
+    "phone_number": "(86-21) 6295-5000",
+    "address": "60 Wan Shan Road, Shanghai, China"
   },
   {
-    "공관명": "주선양 대한민국 총영사관",
-    "전화번호": "(86-24) 2385-3388",
-    "주소": "No.37, South 13 Latitude Road, Heping District,. Shenyang, Liaoning, 110003 P.R.China"
+    "mission_name": "주선양 대한민국 총영사관",
+    "phone_number": "(86-24) 2385-3388",
+    "address": "No.37, South 13 Latitude Road, Heping District,. Shenyang, Liaoning, 110003 P.R.China"
   },
   {
-    "공관명": "주우한 대한민국 총영사관",
-    "전화번호": "(86-27) 8556-1085",
-    "주소": "4F,19F Pudong, Develpment Bank B/D, 218, Xinhua-Road, Jianghan-District, Wuhan, 430022 P.R.China"
+    "mission_name": "주우한 대한민국 총영사관",
+    "phone_number": "(86-27) 8556-1085",
+    "address": "4F,19F Pudong, Develpment Bank B/D, 218, Xinhua-Road, Jianghan-District, Wuhan, 430022 P.R.China"
   },
   {
-    "공관명": "주시안 대한민국 총영사관",
-    "전화번호": "(86-29)8835-1001",
-    "주소": "19F,HIBC,33#Keji Road, GaoXin Hi-Tech Industries Development Zone, Xi'an, Shaanxi, China 710075"
+    "mission_name": "주시안 대한민국 총영사관",
+    "phone_number": "(86-29)8835-1001",
+    "address": "19F,HIBC,33#Keji Road, GaoXin Hi-Tech Industries Development Zone, Xi'an, Shaanxi, China 710075"
   },
   {
-    "공관명": "주콜롬비아 대한민국 대사관",
-    "전화번호": "(+57-601) 743-1610",
-    "주소": "Calle 94 No.9-39, Bogotá, Colombia."
+    "mission_name": "주콜롬비아 대한민국 대사관",
+    "phone_number": "(+57-601) 743-1610",
+    "address": "Calle 94 No.9-39, Bogotá, Colombia."
   },
   {
-    "공관명": "주코스타리카공화국 대한민국 대사관",
-    "전화번호": "(506) 2588-0852/0848/0804",
-    "주소": "400 metros norte y 200 metros oeste, del Restaurante Rostipollos, Urbanizacion Trejos Montealegre, San Rafael de Escazu, San Jose, Costa Rica"
+    "mission_name": "주코스타리카공화국 대한민국 대사관",
+    "phone_number": "(506) 2588-0852/0848/0804",
+    "address": "400 metros norte y 200 metros oeste, del Restaurante Rostipollos, Urbanizacion Trejos Montealegre, San Rafael de Escazu, San Jose, Costa Rica"
   },
   {
-    "공관명": "주쿠바 대한민국 대사관",
-    "전화번호": "+53)6345-6317",
-    "주소": "5ta Avenida entre Calle 76 y 78, Edificio Barcelona, Oficina 301, Centro de Negocios Miram ar, Playa, La Habana, Cuba"
+    "mission_name": "주쿠바 대한민국 대사관",
+    "phone_number": "+53)6345-6317",
+    "address": "5ta Avenida entre Calle 76 y 78, Edificio Barcelona, Oficina 301, Centro de Negocios Miram ar, Playa, La Habana, Cuba"
   },
   {
-    "공관명": "주체코 대한민국 대사관",
-    "전화번호": "(420) 234-090-411",
-    "주소": "Slavickova 5, 160 00 Praha 6-Bubenec, Czech Republic"
+    "mission_name": "주체코 대한민국 대사관",
+    "phone_number": "(420) 234-090-411",
+    "address": "Slavickova 5, 160 00 Praha 6-Bubenec, Czech Republic"
   },
   {
-    "공관명": "주프랑크푸르트 대한민국 총영사관",
-    "전화번호": "+49-69-9567520",
-    "주소": "Lyoner Str. 34, 60528 Frankfurt am Main, Germany"
+    "mission_name": "주프랑크푸르트 대한민국 총영사관",
+    "phone_number": "+49-69-9567520",
+    "address": "Lyoner Str. 34, 60528 Frankfurt am Main, Germany"
   },
   {
-    "공관명": "주함부르크 대한민국 총영사관",
-    "전화번호": "(49-40)650-677-600",
-    "주소": "Kaiser-Wilhelm-Str 9, 20355 Hamburg, Germany"
+    "mission_name": "주함부르크 대한민국 총영사관",
+    "phone_number": "(49-40)650-677-600",
+    "address": "Kaiser-Wilhelm-Str 9, 20355 Hamburg, Germany"
   },
   {
-    "공관명": "주독일 대한민국 대사관",
-    "전화번호": "(49-30) 26065-0,(49-30) 26065-451,(49-30) 26065-324,(49-30) 26065-432,(49-30) 26065-354",
-    "주소": "Stülerstr 10, 10787, Berlin, Germany"
+    "mission_name": "주독일 대한민국 대사관",
+    "phone_number": "(49-30) 26065-0,(49-30) 26065-451,(49-30) 26065-324,(49-30) 26065-432,(49-30) 26065-354",
+    "address": "Stülerstr 10, 10787, Berlin, Germany"
   },
   {
-    "공관명": "주도미니카공화국 대한민국 대사관",
-    "전화번호": "+1 809 482 6505",
-    "주소": "Av. Enriquillo No.75, Urbanización Real, Santo Domingo, D.N, República Dominicana"
+    "mission_name": "주도미니카공화국 대한민국 대사관",
+    "phone_number": "+1 809 482 6505",
+    "address": "Av. Enriquillo No.75, Urbanización Real, Santo Domingo, D.N, República Dominicana"
   },
   {
-    "공관명": "주알제리 대한민국 대사관",
-    "전화번호": "+213 (0)23 18 77 17/~19/~29/~92",
-    "주소": "5 Chemin Macklay(El Bakri), Ben Aknoun, Alger, Algeria"
+    "mission_name": "주알제리 대한민국 대사관",
+    "phone_number": "+213 (0)23 18 77 17/~19/~29/~92",
+    "address": "5 Chemin Macklay(El Bakri), Ben Aknoun, Alger, Algeria"
   },
   {
-    "공관명": "주에콰도르 대한민국 대사관",
-    "전화번호": "(593-2) 352-0874~6",
-    "주소": "Av. Amazonas N37-29 y Unión Nacional de Periodistas, Edificio Eurocenter, Piso 4, Quito-Ecuador"
+    "mission_name": "주에콰도르 대한민국 대사관",
+    "phone_number": "(593-2) 352-0874~6",
+    "address": "Av. Amazonas N37-29 y Unión Nacional de Periodistas, Edificio Eurocenter, Piso 4, Quito-Ecuador"
   },
   {
-    "공관명": "주이집트 대한민국 대사관",
-    "전화번호": "(20-2) 3761-1234~7",
-    "주소": "3 Boulos Hanna Street, Dokki, Cairo, Arab Republic of Egypt"
+    "mission_name": "주이집트 대한민국 대사관",
+    "phone_number": "(20-2) 3761-1234~7",
+    "address": "3 Boulos Hanna Street, Dokki, Cairo, Arab Republic of Egypt"
   },
   {
-    "공관명": "주바르셀로나 대한민국 총영사관",
-    "전화번호": "+34) 93 487 3153",
-    "주소": "Paseo de Gracia, 103, 3rd Floor, 08008, Barcelona, Spain"
+    "mission_name": "주바르셀로나 대한민국 총영사관",
+    "phone_number": "+34) 93 487 3153",
+    "address": "Paseo de Gracia, 103, 3rd Floor, 08008, Barcelona, Spain"
   },
   {
-    "공관명": "주라스팔마스 대한민국 분관",
-    "전화번호": "(34-928) 25-0404, 23-0499 0699",
-    "주소": "Luis Doreste Silva, 60, 1º, 35004 Las Palmas de G. Canaria, SPAIN"
+    "mission_name": "주라스팔마스 대한민국 분관",
+    "phone_number": "(34-928) 25-0404, 23-0499 0699",
+    "address": "Luis Doreste Silva, 60, 1º, 35004 Las Palmas de G. Canaria, SPAIN"
   },
   {
-    "공관명": "주에스토니아 대한민국 대사관",
-    "전화번호": "(대표) +372 604 0100 (영사민원실) +372 604 0100",
-    "주소": "Liivalaia 13, 4.korrus, 10118 Tallinn"
+    "mission_name": "주에스토니아 대한민국 대사관",
+    "phone_number": "(대표) +372 604 0100 (영사민원실) +372 604 0100",
+    "address": "Liivalaia 13, 4.korrus, 10118 Tallinn"
   },
   {
-    "공관명": "주에티오피아 대한민국 대사관 겸 주아프리카연합 대한민국 대표부",
-    "전화번호": "+251 11 372 8111~14",
-    "주소": "P.O.Box 2047, Addis Ababa, Ethiopia (Kirkos Sub-city, Woreda 05, House No. 372/08, Addis Ababa, Ethiopia)"
+    "mission_name": "주에티오피아 대한민국 대사관 겸 주아프리카연합 대한민국 대표부",
+    "phone_number": "+251 11 372 8111~14",
+    "address": "P.O.Box 2047, Addis Ababa, Ethiopia (Kirkos Sub-city, Woreda 05, House No. 372/08, Addis Ababa, Ethiopia)"
   },
   {
-    "공관명": "주핀란드 대한민국 대사관",
-    "전화번호": "(358-9) 251-5000",
-    "주소": "Pohjoinen Makasiinikatu 4, 3rd Floor, 00130 Helsinki"
+    "mission_name": "주핀란드 대한민국 대사관",
+    "phone_number": "(358-9) 251-5000",
+    "address": "Pohjoinen Makasiinikatu 4, 3rd Floor, 00130 Helsinki"
   },
   {
-    "공관명": "주피지 대한민국 대사관",
-    "전화번호": "+679-330-0977",
-    "주소": "8th Floor, Vanua House, Victoria Parade, Suva, Fiji"
+    "mission_name": "주피지 대한민국 대사관",
+    "phone_number": "+679-330-0977",
+    "address": "8th Floor, Vanua House, Victoria Parade, Suva, Fiji"
   },
   {
-    "공관명": "주프랑스 대한민국 대사관",
-    "전화번호": "(33-1) 4753-6995",
-    "주소": "41-43 RUE SAINT DOMINIQUE 75007 PARIS, France"
+    "mission_name": "주프랑스 대한민국 대사관",
+    "phone_number": "(33-1) 4753-6995",
+    "address": "41-43 RUE SAINT DOMINIQUE 75007 PARIS, France"
   },
   {
-    "공관명": "주가봉 대한민국 대사관",
-    "전화번호": "+241 (0)65-30-1900",
-    "주소": "B.P. 2620, Libreville, Gabon"
+    "mission_name": "주가봉 대한민국 대사관",
+    "phone_number": "+241 (0)65-30-1900",
+    "address": "B.P. 2620, Libreville, Gabon"
   },
   {
-    "공관명": "주영국 대한민국 대사관 겸 주국제해사기구 대한민국 대표부",
-    "전화번호": "+44-20-7227-5500",
-    "주소": "60 Buckingham Gate, London, SW1E 6AJ, United Kingdom"
+    "mission_name": "주영국 대한민국 대사관 겸 주국제해사기구 대한민국 대표부",
+    "phone_number": "+44-20-7227-5500",
+    "address": "60 Buckingham Gate, London, SW1E 6AJ, United Kingdom"
   },
   {
-    "공관명": "주조지아 대한민국 대사관",
-    "전화번호": "대표전화(근무시간) : +995-322-970-320 영사콜센터(24시간)/ 근무시간 외 사건사고 등 긴급상황 발생시: +82-2-3210-0404(통화요금 부과)",
-    "주소": "Nugzar Sajaia Str. 8, Vake, Tbilisi, Georgia"
+    "mission_name": "주조지아 대한민국 대사관",
+    "phone_number": "대표전화(근무시간) : +995-322-970-320 영사콜센터(24시간)/ 근무시간 외 사건사고 등 긴급상황 발생시: +82-2-3210-0404(통화요금 부과)",
+    "address": "Nugzar Sajaia Str. 8, Vake, Tbilisi, Georgia"
   },
   {
-    "공관명": "주가나 대한민국 대사관",
-    "전화번호": "(233-302) 77-6157/1757/7533 (한국에서 발신시 국제전화002이용)",
-    "주소": "No.10 5th Avenue Extension, Switchback Residential Area West Cantonments, Accra, Ghana"
+    "mission_name": "주가나 대한민국 대사관",
+    "phone_number": "(233-302) 77-6157/1757/7533 (한국에서 발신시 국제전화002이용)",
+    "address": "No.10 5th Avenue Extension, Switchback Residential Area West Cantonments, Accra, Ghana"
   },
   {
-    "공관명": "주그리스 대한민국 대사관",
-    "전화번호": "(30-210) 698-4080~2",
-    "주소": "19th Fl., Athens Tower A Building, 2-4 Messogeion Avenue,115 27 Athens, Greece"
+    "mission_name": "주그리스 대한민국 대사관",
+    "phone_number": "(30-210) 698-4080~2",
+    "address": "19th Fl., Athens Tower A Building, 2-4 Messogeion Avenue,115 27 Athens, Greece"
   },
   {
-    "공관명": "주과테말라 대한민국 대사관",
-    "전화번호": "(502) 2382-4051~4",
-    "주소": "5 Avenida 5-55, Zona 14, Europlaza, Torre 3, Nivel 7, Apartado Postal 3615 ciudad de Guatemala, Guatemala, C.A."
+    "mission_name": "주과테말라 대한민국 대사관",
+    "phone_number": "(502) 2382-4051~4",
+    "address": "5 Avenida 5-55, Zona 14, Europlaza, Torre 3, Nivel 7, Apartado Postal 3615 ciudad de Guatemala, Guatemala, C.A."
   },
   {
-    "공관명": "주홍콩 대한민국 총영사관",
-    "전화번호": "(852) 2529-4141",
-    "주소": "5/6F, Far East Finance Centre, 16 Harcourt Road, Hong Kong"
+    "mission_name": "주홍콩 대한민국 총영사관",
+    "phone_number": "(852) 2529-4141",
+    "address": "5/6F, Far East Finance Centre, 16 Harcourt Road, Hong Kong"
   },
   {
-    "공관명": "주온두라스 대한민국 대사관",
-    "전화번호": "(504) 2235-5561-3",
-    "주소": "Torre Metrópolis 2, piso 15, Blvd. Suyapa, frente a Televicentro, Tegucigalpa, Honduras"
+    "mission_name": "주온두라스 대한민국 대사관",
+    "phone_number": "(504) 2235-5561-3",
+    "address": "Torre Metrópolis 2, piso 15, Blvd. Suyapa, frente a Televicentro, Tegucigalpa, Honduras"
   },
   {
-    "공관명": "주크로아티아 대한민국 대사관",
-    "전화번호": "(385-1) 4821-282",
-    "주소": "Ksaverska cesta 111/A-B, 10000 Zagreb, Croatia"
+    "mission_name": "주크로아티아 대한민국 대사관",
+    "phone_number": "(385-1) 4821-282",
+    "address": "Ksaverska cesta 111/A-B, 10000 Zagreb, Croatia"
   },
   {
-    "공관명": "주헝가리 대한민국 대사관",
-    "전화번호": "(36-1)462-3080",
-    "주소": "1062 Budapest, Andrássy út 109, Hungary"
+    "mission_name": "주헝가리 대한민국 대사관",
+    "phone_number": "(36-1)462-3080",
+    "address": "1062 Budapest, Andrássy út 109, Hungary"
   },
   {
-    "공관명": "주인도네시아 대한민국 대사관 발리 분관",
-    "전화번호": "+62-361-445-5037",
-    "주소": "Jl. Prof. Moh. Yamin No.8, Kelurahan Sumerta Kelod, Kec, Denpasar Timur, Kota Denpasar, Bali, Indonesia 80239"
+    "mission_name": "주인도네시아 대한민국 대사관 발리 분관",
+    "phone_number": "+62-361-445-5037",
+    "address": "Jl. Prof. Moh. Yamin No.8, Kelurahan Sumerta Kelod, Kec, Denpasar Timur, Kota Denpasar, Bali, Indonesia 80239"
   },
   {
-    "공관명": "주인도네시아 대한민국 대사관",
-    "전화번호": "(62-21) 2967-2555,(62-21) 2967-2580",
-    "주소": "JL. Jendral Gatot Subroto Kav.57 Jakarta 12950"
+    "mission_name": "주인도네시아 대한민국 대사관",
+    "phone_number": "(62-21) 2967-2555,(62-21) 2967-2580",
+    "address": "JL. Jendral Gatot Subroto Kav.57 Jakarta 12950"
   },
   {
-    "공관명": "주아일랜드 대한민국 대사관",
-    "전화번호": "(353-1) 609-9111",
-    "주소": "72 Merrion Square South, Dublin 2, D02 TW54 Ireland"
+    "mission_name": "주아일랜드 대한민국 대사관",
+    "phone_number": "(353-1) 609-9111",
+    "address": "72 Merrion Square South, Dublin 2, D02 TW54 Ireland"
   },
   {
-    "공관명": "주이스라엘 대한민국 대사관",
-    "전화번호": "(972-9) 959-6800",
-    "주소": "6 Hasadnaot St., Herzliya Pituach 4672831, Israel"
+    "mission_name": "주이스라엘 대한민국 대사관",
+    "phone_number": "(972-9) 959-6800",
+    "address": "6 Hasadnaot St., Herzliya Pituach 4672831, Israel"
   },
   {
-    "공관명": "주첸나이 대한민국 총영사관",
-    "전화번호": "+91 44 4061 5500, +91 44 4061 5504",
-    "주소": "5th Floor, No.29, Dr. Radha Krishnan Road, Mylapore, Chennai 600004, India"
+    "mission_name": "주첸나이 대한민국 총영사관",
+    "phone_number": "+91 44 4061 5500, +91 44 4061 5504",
+    "address": "5th Floor, No.29, Dr. Radha Krishnan Road, Mylapore, Chennai 600004, India"
   },
   {
-    "공관명": "주인도 대한민국 대사관",
-    "전화번호": "(+91-11)4200-7000",
-    "주소": "9, Chandragupta Marg, Chanakyapuri Extension, New Delhi-110021, India"
+    "mission_name": "주인도 대한민국 대사관",
+    "phone_number": "(+91-11)4200-7000",
+    "address": "9, Chandragupta Marg, Chanakyapuri Extension, New Delhi-110021, India"
   },
   {
-    "공관명": "주뭄바이 대한민국 총영사관",
-    "전화번호": "(91-22) 6147-7000",
-    "주소": "12th Floor, Lodha Supremus, Dr. E Moses Road, Worli Naka, Mumbai 400018"
+    "mission_name": "주뭄바이 대한민국 총영사관",
+    "phone_number": "(91-22) 6147-7000",
+    "address": "12th Floor, Lodha Supremus, Dr. E Moses Road, Worli Naka, Mumbai 400018"
   },
   {
-    "공관명": "주이라크 대한민국 대사관",
-    "전화번호": "964-(0)773-489-7217",
-    "주소": "Villa W5 Dijla Diplomatic Compound Green Zone Baghdad Iraq"
+    "mission_name": "주이라크 대한민국 대사관",
+    "phone_number": "964-(0)773-489-7217",
+    "address": "Villa W5 Dijla Diplomatic Compound Green Zone Baghdad Iraq"
   },
   {
-    "공관명": "주이란 대한민국 대사관",
-    "전화번호": "+98-21-8805-4900~4",
-    "주소": "No.2, West Daneshvar St, Shaikhbahai Ave, Vanak Sq, Tehran, Iran"
+    "mission_name": "주이란 대한민국 대사관",
+    "phone_number": "+98-21-8805-4900~4",
+    "address": "No.2, West Daneshvar St, Shaikhbahai Ave, Vanak Sq, Tehran, Iran"
   },
   {
-    "공관명": "주이탈리아 대한민국 대사관",
-    "전화번호": "(39-06) 802461 802461",
-    "주소": "Via Piemonte 54, 00187 Rome, Italia"
+    "mission_name": "주이탈리아 대한민국 대사관",
+    "phone_number": "(39-06) 802461 802461",
+    "address": "Via Piemonte 54, 00187 Rome, Italia"
   },
   {
-    "공관명": "주밀라노 대한민국 총영사관",
-    "전화번호": "+39 02 2906 2641",
-    "주소": "Piazza Cavour 3 (4층), 20121, Milano, ITALIA"
+    "mission_name": "주밀라노 대한민국 총영사관",
+    "phone_number": "+39 02 2906 2641",
+    "address": "Piazza Cavour 3 (4층), 20121, Milano, ITALIA"
   },
   {
-    "공관명": "주자메이카 대한민국 대사관(주킹스턴분관)",
-    "전화번호": "+1-876-924-2731",
-    "주소": "5 Oakridge Kingston 8 Jamaica W. I. Embassy of the Republic of Korea in Jamaica"
+    "mission_name": "주자메이카 대한민국 대사관(주킹스턴분관)",
+    "phone_number": "+1-876-924-2731",
+    "address": "5 Oakridge Kingston 8 Jamaica W. I. Embassy of the Republic of Korea in Jamaica"
   },
   {
-    "공관명": "주요르단 대한민국 대사관",
-    "전화번호": "(962-6) 593-0745",
-    "주소": "Bahjat Homsi st. 7, Amman 11181, Jordan"
+    "mission_name": "주요르단 대한민국 대사관",
+    "phone_number": "(962-6) 593-0745",
+    "address": "Bahjat Homsi st. 7, Amman 11181, Jordan"
   },
   {
-    "공관명": "주후쿠오카 대한민국 총영사관",
-    "전화번호": "(81-92) 771-0461~3",
-    "주소": "1-1-3 Jigyohama, chuo-ku, Fukuoka, Japan"
+    "mission_name": "주후쿠오카 대한민국 총영사관",
+    "phone_number": "(81-92) 771-0461~3",
+    "address": "1-1-3 Jigyohama, chuo-ku, Fukuoka, Japan"
   },
   {
-    "공관명": "주히로시마 대한민국 총영사관",
-    "전화번호": "+81-82-505-2100~1",
-    "주소": "5-9-17, Midori, Minamiku, Hiroshima, Japan"
+    "mission_name": "주히로시마 대한민국 총영사관",
+    "phone_number": "+81-82-505-2100~1",
+    "address": "5-9-17, Midori, Minamiku, Hiroshima, Japan"
   },
   {
-    "공관명": "주일본국 대한민국 대사관",
-    "전화번호": "(81-3) 3452-7611~9,(81-3) 6400-0612 ,(81-3) 6400-0676 ,(81-3) 6400-0712",
-    "주소": "1-2-5, Minamiazabu, Minato-ku Tokyo, Japan"
+    "mission_name": "주일본국 대한민국 대사관",
+    "phone_number": "(81-3) 3452-7611~9,(81-3) 6400-0612 ,(81-3) 6400-0676 ,(81-3) 6400-0712",
+    "address": "1-2-5, Minamiazabu, Minato-ku Tokyo, Japan"
   },
   {
-    "공관명": "주고베 대한민국 총영사관",
-    "전화번호": "(81-78)221-4853",
-    "주소": "2-21-5 Nakayamate-Dori, Chuo-ku, kobe, Japan"
+    "mission_name": "주고베 대한민국 총영사관",
+    "phone_number": "(81-78)221-4853",
+    "address": "2-21-5 Nakayamate-Dori, Chuo-ku, kobe, Japan"
   },
   {
-    "공관명": "주나고야 대한민국 총영사관",
-    "전화번호": "(81-52)586-9221",
-    "주소": "1-19-12, Meieki Minami, Nakamura-ku, Nagoya, Japan"
+    "mission_name": "주나고야 대한민국 총영사관",
+    "phone_number": "(81-52)586-9221",
+    "address": "1-19-12, Meieki Minami, Nakamura-ku, Nagoya, Japan"
   },
   {
-    "공관명": "주니가타 대한민국 총영사관",
-    "전화번호": "(81-25) 255-5555",
-    "주소": "8th Floor, Bandaijima Building, Bandaijima 5-1, Chuo-ku, Niigata, Japan"
+    "mission_name": "주니가타 대한민국 총영사관",
+    "phone_number": "(81-25) 255-5555",
+    "address": "8th Floor, Bandaijima Building, Bandaijima 5-1, Chuo-ku, Niigata, Japan"
   },
   {
-    "공관명": "주오사카 대한민국 총영사관",
-    "전화번호": "(81-6) 4256-2345",
-    "주소": "2-5-13 Gomi Bld., Kyutaromachi, Chuo-ku, Osaka, Japan"
+    "mission_name": "주오사카 대한민국 총영사관",
+    "phone_number": "(81-6) 4256-2345",
+    "address": "2-5-13 Gomi Bld., Kyutaromachi, Chuo-ku, Osaka, Japan"
   },
   {
-    "공관명": "주삿포로 대한민국 총영사관",
-    "전화번호": "(81-11) 218-0288",
-    "주소": "1-4, Nishi 12-Chome, KIta 2-jo, Chuo-ku Sapporo, Japan"
+    "mission_name": "주삿포로 대한민국 총영사관",
+    "phone_number": "(81-11) 218-0288",
+    "address": "1-4, Nishi 12-Chome, KIta 2-jo, Chuo-ku Sapporo, Japan"
   },
   {
-    "공관명": "주센다이 대한민국 총영사관",
-    "전화번호": "(+81-22) 221-2751~3",
-    "주소": "4-3, 1-chome, Kamisugi, Aobaku, Sendai, Japan"
+    "mission_name": "주센다이 대한민국 총영사관",
+    "phone_number": "(+81-22) 221-2751~3",
+    "address": "4-3, 1-chome, Kamisugi, Aobaku, Sendai, Japan"
   },
   {
-    "공관명": "주요코하마 대한민국 총영사관",
-    "전화번호": "(81-45) 621-4531",
-    "주소": "118, Yamate-cho, Naka-ku, Yokohama-si, Kanagawa-ken, Japan"
+    "mission_name": "주요코하마 대한민국 총영사관",
+    "phone_number": "(81-45) 621-4531",
+    "address": "118, Yamate-cho, Naka-ku, Yokohama-si, Kanagawa-ken, Japan"
   },
   {
-    "공관명": "주케냐 대한민국 대사관",
-    "전화번호": "(254-20)361-5000",
-    "주소": "1st & 2nd Fl., Misha Tower, 47 Westlands Road, Westlands, Nairobi, Kenya"
+    "mission_name": "주케냐 대한민국 대사관",
+    "phone_number": "(254-20)361-5000",
+    "address": "1st & 2nd Fl., Misha Tower, 47 Westlands Road, Westlands, Nairobi, Kenya"
   },
   {
-    "공관명": "주키르기즈공화국 대한민국 대사관",
-    "전화번호": "(996)312-57-00-55",
-    "주소": "Str. Akhunbaeva 35, Bishkek, Kyrgyz Republic"
+    "mission_name": "주키르기즈공화국 대한민국 대사관",
+    "phone_number": "(996)312-57-00-55",
+    "address": "Str. Akhunbaeva 35, Bishkek, Kyrgyz Republic"
   },
   {
-    "공관명": "주캄보디아 대한민국 대사관",
-    "전화번호": "(855-23) 211-900",
-    "주소": "Phum 14. Sangkat Tonle Bassac, Khan Chamcamon, Phnom Penh, Cambodia"
+    "mission_name": "주캄보디아 대한민국 대사관",
+    "phone_number": "(855-23) 211-900",
+    "address": "Phum 14. Sangkat Tonle Bassac, Khan Chamcamon, Phnom Penh, Cambodia"
   },
   {
-    "공관명": "주시엠립 대한민국 분관",
-    "전화번호": "(855)63-99-0400",
-    "주소": "2nd Floor, Jasmine spa building, Sokha Siem Reap Resort & Convention Center, St. 60, Phum Trang, Sangkat Slorkram, Siem Reap, Cambodia"
+    "mission_name": "주시엠립 대한민국 분관",
+    "phone_number": "(855)63-99-0400",
+    "address": "2nd Floor, Jasmine spa building, Sokha Siem Reap Resort & Convention Center, St. 60, Phum Trang, Sangkat Slorkram, Siem Reap, Cambodia"
   },
   {
-    "공관명": "주쿠웨이트 대한민국 대사관",
-    "전화번호": "(965) 2537-8621~3",
-    "주소": "Kuwait, Mishref, Diplomatic Zone 2, Street 303, Block 7A, Plot 6"
+    "mission_name": "주쿠웨이트 대한민국 대사관",
+    "phone_number": "(965) 2537-8621~3",
+    "address": "Kuwait, Mishref, Diplomatic Zone 2, Street 303, Block 7A, Plot 6"
   },
   {
-    "공관명": "주알마티 대한민국 총영사관",
-    "전화번호": "(7-727) 291-0490/291-0449",
-    "주소": "66 Kaldayakov Str. Almaty, KAZAKHSTAN"
+    "mission_name": "주알마티 대한민국 총영사관",
+    "phone_number": "(7-727) 291-0490/291-0449",
+    "address": "66 Kaldayakov Str. Almaty, KAZAKHSTAN"
   },
   {
-    "공관명": "주카자흐스탄 대한민국 대사관",
-    "전화번호": "+7 (7172) 572-100, +7 (7172) 572-200",
-    "주소": "Embassy of the Republic of Korea to the Republic of Kazakhstan Obagan 5, Astana,010009 Kazakhstan"
+    "mission_name": "주카자흐스탄 대한민국 대사관",
+    "phone_number": "+7 (7172) 572-100, +7 (7172) 572-200",
+    "address": "Embassy of the Republic of Korea to the Republic of Kazakhstan Obagan 5, Astana,010009 Kazakhstan"
   },
   {
-    "공관명": "주라오스 대한민국 대사관",
-    "전화번호": "(대사관:정무·경제) +856-(0)21-352-031~3 / (영사과:여권·비자·공증·교육) +856-(0)21-255-770~1",
-    "주소": "Embassy of the Republic of Korea, Lao-Thai Friendship Road, Watnak Village, Sisattanak District, Vientiane, Lao PDR, P.O.Box 7567"
+    "mission_name": "주라오스 대한민국 대사관",
+    "phone_number": "(대사관:정무·경제) +856-(0)21-352-031~3 / (영사과:여권·비자·공증·교육) +856-(0)21-255-770~1",
+    "address": "Embassy of the Republic of Korea, Lao-Thai Friendship Road, Watnak Village, Sisattanak District, Vientiane, Lao PDR, P.O.Box 7567"
   },
   {
-    "공관명": "주레바논 대한민국 대사관",
-    "전화번호": "+961-5-922-846",
-    "주소": "Embassy of the Republic of Korea, Bldg.4, Elias Sarkis Road 1209, Yarzeh, Baabda P.O.Box 40-290 Baabda, Lebanon"
+    "mission_name": "주레바논 대한민국 대사관",
+    "phone_number": "+961-5-922-846",
+    "address": "Embassy of the Republic of Korea, Bldg.4, Elias Sarkis Road 1209, Yarzeh, Baabda P.O.Box 40-290 Baabda, Lebanon"
   },
   {
-    "공관명": "주스리랑카 대한민국 대사관",
-    "전화번호": "(94-11) 269-9036~8",
-    "주소": "No.98, Dharmapala Mawatha, Colombo 7, Sri Lanka"
+    "mission_name": "주스리랑카 대한민국 대사관",
+    "phone_number": "(94-11) 269-9036~8",
+    "address": "No.98, Dharmapala Mawatha, Colombo 7, Sri Lanka"
   },
   {
-    "공관명": "주리투아니아 대한민국 대사관",
-    "전화번호": "+370 520 31 202, +370 520 31 546 (lietuvių)",
-    "주소": "Liubarto g. 33, Vilnius, LT-08117"
+    "mission_name": "주리투아니아 대한민국 대사관",
+    "phone_number": "+370 520 31 202, +370 520 31 546 (lietuvių)",
+    "address": "Liubarto g. 33, Vilnius, LT-08117"
   },
   {
-    "공관명": "주룩셈부르크 대한민국 대사관",
-    "전화번호": "+352-2699-7012",
-    "주소": "5 Rue Pierre d' Aspelt, L-1142 Luxembourg"
+    "mission_name": "주룩셈부르크 대한민국 대사관",
+    "phone_number": "+352-2699-7012",
+    "address": "5 Rue Pierre d' Aspelt, L-1142 Luxembourg"
   },
   {
-    "공관명": "주라트비아 대한민국 대사관",
-    "전화번호": "(+371) 6732-4274",
-    "주소": "2 Jura Alunana Street, Riga, LV-1010, Latvia"
+    "mission_name": "주라트비아 대한민국 대사관",
+    "phone_number": "(+371) 6732-4274",
+    "address": "2 Jura Alunana Street, Riga, LV-1010, Latvia"
   },
   {
-    "공관명": "주리비아 대한민국 대사관",
-    "전화번호": "+216-71-274-759",
-    "주소": "P.O.Box 4781/5160, Abounawas Area. Gargaresh St., Tripoli, Libya"
+    "mission_name": "주리비아 대한민국 대사관",
+    "phone_number": "+216-71-274-759",
+    "address": "P.O.Box 4781/5160, Abounawas Area. Gargaresh St., Tripoli, Libya"
   },
   {
-    "공관명": "주모로코 대한민국 대사관",
-    "전화번호": "+212-5-3775-1767 / 6791 / 1966 / 6726",
-    "주소": "41 Av. Mehdi Ben Barka, Souissi, Rabat, Morocco"
+    "mission_name": "주모로코 대한민국 대사관",
+    "phone_number": "+212-5-3775-1767 / 6791 / 1966 / 6726",
+    "address": "41 Av. Mehdi Ben Barka, Souissi, Rabat, Morocco"
   },
   {
-    "공관명": "주마다가스카르 대한민국 대사관",
-    "전화번호": "+261)20-222-2933",
-    "주소": "Villa Pervenches, Lotissement Bonnet, Ivandry, Antananarivo, Madagascar"
+    "mission_name": "주마다가스카르 대한민국 대사관",
+    "phone_number": "+261)20-222-2933",
+    "address": "Villa Pervenches, Lotissement Bonnet, Ivandry, Antananarivo, Madagascar"
   },
   {
-    "공관명": "주미얀마연방공화국 대한민국 대사관",
-    "전화번호": "+95-1-7527142~4",
-    "주소": "No.97, University Avenue Road, Bahan Township, Yangon, Myanmar"
+    "mission_name": "주미얀마연방공화국 대한민국 대사관",
+    "phone_number": "+95-1-7527142~4",
+    "address": "No.97, University Avenue Road, Bahan Township, Yangon, Myanmar"
   },
   {
-    "공관명": "주몽골 대한민국 대사관",
-    "전화번호": "(976) 7007-1020",
-    "주소": "Mahatma Gandhi street-39, Khan-Uul district-15, Ulaanbaatar-17011, Mongolia C.P.O Box-1039"
+    "mission_name": "주몽골 대한민국 대사관",
+    "phone_number": "(976) 7007-1020",
+    "address": "Mahatma Gandhi street-39, Khan-Uul district-15, Ulaanbaatar-17011, Mongolia C.P.O Box-1039"
   },
   {
-    "공관명": "주멕시코 대한민국 대사관",
-    "전화번호": "(52-55) 5202-9866, (52-55) 5202-9866",
-    "주소": "Lope Díaz de Armendariz No.110, Col. Lomas Virreyes, C.P. 11000, México, CDMX"
+    "mission_name": "주멕시코 대한민국 대사관",
+    "phone_number": "(52-55) 5202-9866, (52-55) 5202-9866",
+    "address": "Lope Díaz de Armendariz No.110, Col. Lomas Virreyes, C.P. 11000, México, CDMX"
   },
   {
-    "공관명": "주코타키나발루 대한민국 분관",
-    "전화번호": "+60-88-206-110",
-    "주소": "L7.02, Level 7, Plaza Shell, 29 Jalan Tunka Abdul Rahman, 88000 Kota Kinabalu, Sabah"
+    "mission_name": "주코타키나발루 대한민국 분관",
+    "phone_number": "+60-88-206-110",
+    "address": "L7.02, Level 7, Plaza Shell, 29 Jalan Tunka Abdul Rahman, 88000 Kota Kinabalu, Sabah"
   },
   {
-    "공관명": "주말레이시아 대한민국 대사관",
-    "전화번호": "(60-3) 4266-8900",
-    "주소": "No.9 & 11, Jalan Nipah, Off Jalan Ampang 55000 Kuala Lumpur, Malaysia"
+    "mission_name": "주말레이시아 대한민국 대사관",
+    "phone_number": "(60-3) 4266-8900",
+    "address": "No.9 & 11, Jalan Nipah, Off Jalan Ampang 55000 Kuala Lumpur, Malaysia"
   },
   {
-    "공관명": "주모잠비크공화국 대한민국 대사관",
-    "전화번호": "+258 21-495-625",
-    "주소": "Av. Marginal 141, Torres Rani 7 Andar, Maputo, Mozambique"
+    "mission_name": "주모잠비크공화국 대한민국 대사관",
+    "phone_number": "+258 21-495-625",
+    "address": "Av. Marginal 141, Torres Rani 7 Andar, Maputo, Mozambique"
   },
   {
-    "공관명": "주나이지리아 대한민국 대사관",
-    "전화번호": "(234) 810 389 0991",
-    "주소": "No. 9, Ovia Crescent, off Pope Jphn Paul II Street, Maitama, Abuja, Nigeria"
+    "mission_name": "주나이지리아 대한민국 대사관",
+    "phone_number": "(234) 810 389 0991",
+    "address": "No. 9, Ovia Crescent, off Pope Jphn Paul II Street, Maitama, Abuja, Nigeria"
   },
   {
-    "공관명": "주라고스 대한민국 분관",
-    "전화번호": "(234-1) 271-6295",
-    "주소": "26 Oyinkan Abayomi Dr, Ikoyi, Lagos, Nigeria"
+    "mission_name": "주라고스 대한민국 분관",
+    "phone_number": "(234-1) 271-6295",
+    "address": "26 Oyinkan Abayomi Dr, Ikoyi, Lagos, Nigeria"
   },
   {
-    "공관명": "주니카라과 대한민국 대사관",
-    "전화번호": "(505)2267-6777/6688",
-    "주소": "De la rotonda universitaria, 100mts al norte, 100mts al oeste, mano derecha, Managua, Nicaragua"
+    "mission_name": "주니카라과 대한민국 대사관",
+    "phone_number": "(505)2267-6777/6688",
+    "address": "De la rotonda universitaria, 100mts al norte, 100mts al oeste, mano derecha, Managua, Nicaragua"
   },
   {
-    "공관명": "주네덜란드 대한민국 대사관",
-    "전화번호": "(31-70) 740-0200",
-    "주소": "Verlengde Tolweg 8, 2517 JV, The Hague, The Netherlands"
+    "mission_name": "주네덜란드 대한민국 대사관",
+    "phone_number": "(31-70) 740-0200",
+    "address": "Verlengde Tolweg 8, 2517 JV, The Hague, The Netherlands"
   },
   {
-    "공관명": "주노르웨이 대한민국 대사관",
-    "전화번호": "+47 2254 7090",
-    "주소": "Inkognitogaten 3, 0258 Oslo"
+    "mission_name": "주노르웨이 대한민국 대사관",
+    "phone_number": "+47 2254 7090",
+    "address": "Inkognitogaten 3, 0258 Oslo"
   },
   {
-    "공관명": "주네팔 대한민국 대사관",
-    "전화번호": "(977-1) 5370172 / 5370417 / 5377391 / 5384972",
-    "주소": "P.O.Box 1058 Ravi bhawan Tahachal, Kathmandu, Nepal"
+    "mission_name": "주네팔 대한민국 대사관",
+    "phone_number": "(977-1) 5370172 / 5370417 / 5377391 / 5384972",
+    "address": "P.O.Box 1058 Ravi bhawan Tahachal, Kathmandu, Nepal"
   },
   {
-    "공관명": "주오클랜드 대한민국 분관",
-    "전화번호": "(64-9) 379-0818 0460",
-    "주소": "Level 12, Tower 1, 205 Queen Street, Auckland CBD 1010 New Zealand"
+    "mission_name": "주오클랜드 대한민국 분관",
+    "phone_number": "(64-9) 379-0818 0460",
+    "address": "Level 12, Tower 1, 205 Queen Street, Auckland CBD 1010 New Zealand"
   },
   {
-    "공관명": "주뉴질랜드 대한민국 대사관",
-    "전화번호": "(64-4) 473-9073,(61-2) 6270-4100",
-    "주소": "Level 20, ANZ Centre, 171 Featherston Street, Wellington 6011, New Zealand"
+    "mission_name": "주뉴질랜드 대한민국 대사관",
+    "phone_number": "(64-4) 473-9073,(61-2) 6270-4100",
+    "address": "Level 20, ANZ Centre, 171 Featherston Street, Wellington 6011, New Zealand"
   },
   {
-    "공관명": "주오이시디 대한민국 대표부",
-    "전화번호": "(33-1)44 05 20 50",
-    "주소": "4, place de la porte de Passy, 75016 Paris, France"
+    "mission_name": "주오이시디 대한민국 대표부",
+    "phone_number": "(33-1)44 05 20 50",
+    "address": "4, place de la porte de Passy, 75016 Paris, France"
   },
   {
-    "공관명": "주오만 대한민국 대사관",
-    "전화번호": "(968) 2469-1490",
-    "주소": "P.O.Box 377, Madinat Qaboos, Postal Code 115, Muscat, Sultanate of Oman"
+    "mission_name": "주오만 대한민국 대사관",
+    "phone_number": "(968) 2469-1490",
+    "address": "P.O.Box 377, Madinat Qaboos, Postal Code 115, Muscat, Sultanate of Oman"
   },
   {
-    "공관명": "주파나마 대한민국 대사관",
-    "전화번호": "(507) 264-8203 8360 269-2257 264-9876",
-    "주소": "The Towers Business Plaza Piso5, Calle 50, San Francisco, Ciudad de Panamá"
+    "mission_name": "주파나마 대한민국 대사관",
+    "phone_number": "(507) 264-8203 8360 269-2257 264-9876",
+    "address": "The Towers Business Plaza Piso5, Calle 50, San Francisco, Ciudad de Panamá"
   },
   {
-    "공관명": "주페루 대한민국 대사관",
-    "전화번호": "(51-1) 632-5000",
-    "주소": "Calle Guillermo Marconi 165, San lsidro, Lima, PERU"
+    "mission_name": "주페루 대한민국 대사관",
+    "phone_number": "(51-1) 632-5000",
+    "address": "Calle Guillermo Marconi 165, San lsidro, Lima, PERU"
   },
   {
-    "공관명": "주파푸아뉴기니독립국 대한민국 대사관",
-    "전화번호": "(675) 321-5822/5823/5824/5825",
-    "주소": "4th floor, Pacific MMI Building, Section 21 Allotments 2&3, Champion Parade, Granville, Port Moresby, Papua New Guinea"
+    "mission_name": "주파푸아뉴기니독립국 대한민국 대사관",
+    "phone_number": "(675) 321-5822/5823/5824/5825",
+    "address": "4th floor, Pacific MMI Building, Section 21 Allotments 2&3, Champion Parade, Granville, Port Moresby, Papua New Guinea"
   },
   {
-    "공관명": "주세부 대한민국 분관",
-    "전화번호": "+63 32 231 1516(~9)",
-    "주소": "12th floor Chinabank Corporate Center, Samar Loop St., Brgy. Hipodromo, Cebu Business Park, Cebu City, the Philippines"
+    "mission_name": "주세부 대한민국 분관",
+    "phone_number": "+63 32 231 1516(~9)",
+    "address": "12th floor Chinabank Corporate Center, Samar Loop St., Brgy. Hipodromo, Cebu Business Park, Cebu City, the Philippines"
   },
   {
-    "공관명": "주필리핀 대한민국 대사관",
-    "전화번호": "(63-2) 8856-9210",
-    "주소": "122 Upper Mckinley Roads, Mckinley Town Center, Fort Bonifacio, Taguig City, 1634 Philippines"
+    "mission_name": "주필리핀 대한민국 대사관",
+    "phone_number": "(63-2) 8856-9210",
+    "address": "122 Upper Mckinley Roads, Mckinley Town Center, Fort Bonifacio, Taguig City, 1634 Philippines"
   },
   {
-    "공관명": "주카라치 대한민국 분관",
-    "전화번호": "(92-21) 3585-3950~1 3585-3426/7",
-    "주소": "101, 29th Street(Off, Khayaban-e-Mohafiz) Phase-VI, DHA, Karachi, Pakistan"
+    "mission_name": "주카라치 대한민국 분관",
+    "phone_number": "(92-21) 3585-3950~1 3585-3426/7",
+    "address": "101, 29th Street(Off, Khayaban-e-Mohafiz) Phase-VI, DHA, Karachi, Pakistan"
   },
   {
-    "공관명": "주파키스탄 대한민국 대사관",
-    "전화번호": "(92-51) 227-9380~1, (92-51) 227-9380~1",
-    "주소": "Block 13, Street 29, G-5/4, Diplomatic Enclave Ⅱ, Islamabad, Pakistan"
+    "mission_name": "주파키스탄 대한민국 대사관",
+    "phone_number": "(92-51) 227-9380~1, (92-51) 227-9380~1",
+    "address": "Block 13, Street 29, G-5/4, Diplomatic Enclave Ⅱ, Islamabad, Pakistan"
   },
   {
-    "공관명": "주폴란드 대한민국 대사관",
-    "전화번호": "(48-22) 559-2900",
-    "주소": "ul. Szwolezerow 6, 00-464, Warsaw, Poland"
+    "mission_name": "주폴란드 대한민국 대사관",
+    "phone_number": "(48-22) 559-2900",
+    "address": "ul. Szwolezerow 6, 00-464, Warsaw, Poland"
   },
   {
-    "공관명": "주팔레스타인 대한민국 대표사무소",
-    "전화번호": "(+972)-2-240-2846~7",
-    "주소": "5F Padico Building, 17 Al-Quds Street, Al-Masyoun, Ramallah"
+    "mission_name": "주팔레스타인 대한민국 대표사무소",
+    "phone_number": "(+972)-2-240-2846~7",
+    "address": "5F Padico Building, 17 Al-Quds Street, Al-Masyoun, Ramallah"
   },
   {
-    "공관명": "주포르투갈 대한민국 대사관",
-    "전화번호": "+351-21-781-7130",
-    "주소": "Av. Miguel Bombarda 36-7, Lisbon, Portugal"
+    "mission_name": "주포르투갈 대한민국 대사관",
+    "phone_number": "+351-21-781-7130",
+    "address": "Av. Miguel Bombarda 36-7, Lisbon, Portugal"
   },
   {
-    "공관명": "주파라과이 대한민국 대사관",
-    "전화번호": "(595-21) 605-606 401 419",
-    "주소": "Av. Rep. Argentina Nro. 678 esq. Pacheco, Asuncion, Paraguay"
+    "mission_name": "주파라과이 대한민국 대사관",
+    "phone_number": "(595-21) 605-606 401 419",
+    "address": "Av. Rep. Argentina Nro. 678 esq. Pacheco, Asuncion, Paraguay"
   },
   {
-    "공관명": "주카타르 대한민국 대사관",
-    "전화번호": "+974 4483 2238/9",
-    "주소": "New Diplomatic Area, Al Shabab St., Onaiza-66, Doha, Qatar"
+    "mission_name": "주카타르 대한민국 대사관",
+    "phone_number": "+974 4483 2238/9",
+    "address": "New Diplomatic Area, Al Shabab St., Onaiza-66, Doha, Qatar"
   },
   {
-    "공관명": "주루마니아 대한민국 대사관",
-    "전화번호": "(40-21) 230-7198",
-    "주소": "SKYTOWER Building 33th floor, 246C Calea Floreasca, Sector 1, Bucharest, Romania"
+    "mission_name": "주루마니아 대한민국 대사관",
+    "phone_number": "(40-21) 230-7198",
+    "address": "SKYTOWER Building 33th floor, 246C Calea Floreasca, Sector 1, Bucharest, Romania"
   },
   {
-    "공관명": "주세르비아 대한민국 대사관",
-    "전화번호": "(381-11) 3674-225",
-    "주소": "Milosa Savcica 4, 11040 Belgrade, Serbia"
+    "mission_name": "주세르비아 대한민국 대사관",
+    "phone_number": "(381-11) 3674-225",
+    "address": "Milosa Savcica 4, 11040 Belgrade, Serbia"
   },
   {
-    "공관명": "주이르쿠츠크 대한민국 총영사관",
-    "전화번호": "(7-3952)250-301",
-    "주소": "3rd. Floor, 44, Gegarin Boulevard, lrkustk Russia"
+    "mission_name": "주이르쿠츠크 대한민국 총영사관",
+    "phone_number": "(7-3952)250-301",
+    "address": "3rd. Floor, 44, Gegarin Boulevard, lrkustk Russia"
   },
   {
-    "공관명": "주러시아 대한민국 대사관",
-    "전화번호": "(7-495) 783-2727",
-    "주소": "St. Plyushchikha 56, Building 1, Moscow, Russia (Index. 119121)"
+    "mission_name": "주러시아 대한민국 대사관",
+    "phone_number": "(7-495) 783-2727",
+    "address": "St. Plyushchikha 56, Building 1, Moscow, Russia (Index. 119121)"
   },
   {
-    "공관명": "주블라디보스톡 대한민국 총영사관 유즈노사할린스크 출장소",
-    "전화번호": "+7 (4242) 462-430/1",
-    "주소": "283 B, Lenin St., Yuzhno-Sakhalinsk, Russia"
+    "mission_name": "주블라디보스톡 대한민국 총영사관 유즈노사할린스크 출장소",
+    "phone_number": "+7 (4242) 462-430/1",
+    "address": "283 B, Lenin St., Yuzhno-Sakhalinsk, Russia"
   },
   {
-    "공관명": "주상트페테르부르크 대한민국 총영사관",
-    "전화번호": "(7-812) 448-1909 (민원실)1500",
-    "주소": "Nekrasova Street Bldg. 32-A, Saint Petersburg, Russia"
+    "mission_name": "주상트페테르부르크 대한민국 총영사관",
+    "phone_number": "(7-812) 448-1909 (민원실)1500",
+    "address": "Nekrasova Street Bldg. 32-A, Saint Petersburg, Russia"
   },
   {
-    "공관명": "주블라디보스톡 대한민국 총영사관",
-    "전화번호": "+7-423-240-2222",
-    "주소": "19 Pologaya St, Vladivostok, Russia"
+    "mission_name": "주블라디보스톡 대한민국 총영사관",
+    "phone_number": "+7-423-240-2222",
+    "address": "19 Pologaya St, Vladivostok, Russia"
   },
   {
-    "공관명": "주르완다 대한민국 대사관",
-    "전화번호": "250) 252 577 577",
-    "주소": "Embassy of the Republic of Korea, 34, KG 13 Ave, P.O. BOX 6404, Kigali, Rwanda"
+    "mission_name": "주르완다 대한민국 대사관",
+    "phone_number": "250) 252 577 577",
+    "address": "Embassy of the Republic of Korea, 34, KG 13 Ave, P.O. BOX 6404, Kigali, Rwanda"
   },
   {
-    "공관명": "주젯다 대한민국 총영사관",
-    "전화번호": "(966-12)668-1990",
-    "주소": "Jeddah 21544 Kingdom of Saudi Arabia"
+    "mission_name": "주젯다 대한민국 총영사관",
+    "phone_number": "(966-12)668-1990",
+    "address": "Jeddah 21544 Kingdom of Saudi Arabia"
   },
   {
-    "공관명": "주사우디아라비아 대한민국 대사관",
-    "전화번호": "(대표전화) +966-11-488-2211",
-    "주소": "Korean Embassy, Amr Aldamri Street, Al Safarat Dist., Riyadh 12512, Kingdom of Saudl Arabia"
+    "mission_name": "주사우디아라비아 대한민국 대사관",
+    "phone_number": "(대표전화) +966-11-488-2211",
+    "address": "Korean Embassy, Amr Aldamri Street, Al Safarat Dist., Riyadh 12512, Kingdom of Saudl Arabia"
   },
   {
-    "공관명": "주수단 대한민국 대사관",
-    "전화번호": "(20) 2-2754-7340~1,3",
-    "주소": "3rd Floor, Building No.44, Palestine Road, New Maadi, Cairo. A.R.E"
+    "mission_name": "주수단 대한민국 대사관",
+    "phone_number": "(20) 2-2754-7340~1,3",
+    "address": "3rd Floor, Building No.44, Palestine Road, New Maadi, Cairo. A.R.E"
   },
   {
-    "공관명": "주스웨덴 대한민국 대사관",
-    "전화번호": "+46 8 5458 9400",
-    "주소": "Laboratoriegatan 10, 115 27 Stockholm, Sweden"
+    "mission_name": "주스웨덴 대한민국 대사관",
+    "phone_number": "+46 8 5458 9400",
+    "address": "Laboratoriegatan 10, 115 27 Stockholm, Sweden"
   },
   {
-    "공관명": "주싱가포르 대한민국 대사관",
-    "전화번호": "(65) 6256-1188",
-    "주소": "47 Scotts Road, #08-00 Goldbell Tower, Singapore 228233"
+    "mission_name": "주싱가포르 대한민국 대사관",
+    "phone_number": "(65) 6256-1188",
+    "address": "47 Scotts Road, #08-00 Goldbell Tower, Singapore 228233"
   },
   {
-    "공관명": "주슬로바키아 대한민국 대사관",
-    "전화번호": "(421) 2-3307-0711,(421) 2-3307-0711",
-    "주소": "Sturova 16, 811 02 Bratislava, Slovak Republic"
+    "mission_name": "주슬로바키아 대한민국 대사관",
+    "phone_number": "(421) 2-3307-0711,(421) 2-3307-0711",
+    "address": "Sturova 16, 811 02 Bratislava, Slovak Republic"
   },
   {
-    "공관명": "주세네갈 대한민국 대사관",
-    "전화번호": "(221-33)824-0672, (221-33)856-0780",
-    "주소": "Ambassade de la République de Corée Immeuble Rahmane Lot 12, situé Direction Générale de l'ASECNA, Petite Corniche des Almadies, Dakar, Sénégal"
+    "mission_name": "주세네갈 대한민국 대사관",
+    "phone_number": "(221-33)824-0672, (221-33)856-0780",
+    "address": "Ambassade de la République de Corée Immeuble Rahmane Lot 12, situé Direction Générale de l'ASECNA, Petite Corniche des Almadies, Dakar, Sénégal"
   },
   {
-    "공관명": "주엘살바도르 대한민국 대사관",
-    "전화번호": "(503) 2263-9145",
-    "주소": "Cl, Mirador y 87 Avenida Norte, Edif, Torre Futura ,Nivel 14, Local 05, Complejo WTC,Col, Escalon, San Salvador,El Salvador"
+    "mission_name": "주엘살바도르 대한민국 대사관",
+    "phone_number": "(503) 2263-9145",
+    "address": "Cl, Mirador y 87 Avenida Norte, Edif, Torre Futura ,Nivel 14, Local 05, Complejo WTC,Col, Escalon, San Salvador,El Salvador"
   },
   {
-    "공관명": "주태국 대한민국 대사관",
-    "전화번호": "+66-2-481-6000",
-    "주소": "Embassy of the Republic of Korea, 23 Thiam-Ruammit Road, Ratchadapisek, Huai-Khwang, Bangkok 10310 Thailand"
+    "mission_name": "주태국 대한민국 대사관",
+    "phone_number": "+66-2-481-6000",
+    "address": "Embassy of the Republic of Korea, 23 Thiam-Ruammit Road, Ratchadapisek, Huai-Khwang, Bangkok 10310 Thailand"
   },
   {
-    "공관명": "주타지키스탄 대한민국 대사관",
-    "전화번호": "(992-37)229-3001",
-    "주소": "9, Tolstoy, Dushanbe City, Republic of Tajikistan"
+    "mission_name": "주타지키스탄 대한민국 대사관",
+    "phone_number": "(992-37)229-3001",
+    "address": "9, Tolstoy, Dushanbe City, Republic of Tajikistan"
   },
   {
-    "공관명": "주동티모르 대한민국 대사관",
-    "전화번호": "(670) 332-1635 /332-1567",
-    "주소": "P.O.Box 230, Avenida de Portugal, Motael, Dili, Timor-Leste"
+    "mission_name": "주동티모르 대한민국 대사관",
+    "phone_number": "(670) 332-1635 /332-1567",
+    "address": "P.O.Box 230, Avenida de Portugal, Motael, Dili, Timor-Leste"
   },
   {
-    "공관명": "주투르크메니스탄 대한민국 대사관",
-    "전화번호": "(993-12)94-72-86~88",
-    "주소": "Azadi street 17a, Ashgabat, Turkmenistan"
+    "mission_name": "주투르크메니스탄 대한민국 대사관",
+    "phone_number": "(993-12)94-72-86~88",
+    "address": "Azadi street 17a, Ashgabat, Turkmenistan"
   },
   {
-    "공관명": "주튀니지 대한민국 대사관",
-    "전화번호": "+216) 71-198-595",
-    "주소": "Immeuble BLUE SQUARE, Avenue de la Bourse, les Berges du Lac 2, 1053 Tunis, Tunisie"
+    "mission_name": "주튀니지 대한민국 대사관",
+    "phone_number": "+216) 71-198-595",
+    "address": "Immeuble BLUE SQUARE, Avenue de la Bourse, les Berges du Lac 2, 1053 Tunis, Tunisie"
   },
   {
-    "공관명": "주이스탄불 대한민국 총영사관",
-    "전화번호": "(90-212) 368-8368",
-    "주소": "Askerocagi Caddesi,No:6 Suzer Plaza Kat:4,34367 Elmadag-Sisli, Istanbul, Turkey"
+    "mission_name": "주이스탄불 대한민국 총영사관",
+    "phone_number": "(90-212) 368-8368",
+    "address": "Askerocagi Caddesi,No:6 Suzer Plaza Kat:4,34367 Elmadag-Sisli, Istanbul, Turkey"
   },
   {
-    "공관명": "주튀르키예공화국 대한민국 대사관",
-    "전화번호": "(90-312) 468-4821-3[대표전화],(90-312) 481-0404[영사 및 사건사고]",
-    "주소": "Alacam Sokak No.5, Cinnah Caddesi, Cankaya/Ankara 06690 Türkiye Cumhuriyeti"
+    "mission_name": "주튀르키예공화국 대한민국 대사관",
+    "phone_number": "(90-312) 468-4821-3[대표전화],(90-312) 481-0404[영사 및 사건사고]",
+    "address": "Alacam Sokak No.5, Cinnah Caddesi, Cankaya/Ankara 06690 Türkiye Cumhuriyeti"
   },
   {
-    "공관명": "주트리니다드토바고 대한민국 대사관",
-    "전화번호": "+1-868-622-9081",
-    "주소": "36 Elizabeth Street, St. Clair, Port of Spain, Trinidad and Tobago"
+    "mission_name": "주트리니다드토바고 대한민국 대사관",
+    "phone_number": "+1-868-622-9081",
+    "address": "36 Elizabeth Street, St. Clair, Port of Spain, Trinidad and Tobago"
   },
   {
-    "공관명": "주탄자니아 대한민국 대사관",
-    "전화번호": "(255)22 211 6086-8",
-    "주소": "P.O.Box 1154, Dar es Salaam, Tanzania"
+    "mission_name": "주탄자니아 대한민국 대사관",
+    "phone_number": "(255)22 211 6086-8",
+    "address": "P.O.Box 1154, Dar es Salaam, Tanzania"
   },
   {
-    "공관명": "주우크라이나 대한민국 대사관",
-    "전화번호": "+380-44-279-6424",
-    "주소": "12, Striletska st., 01054, Kyiv, UKRAINE"
+    "mission_name": "주우크라이나 대한민국 대사관",
+    "phone_number": "+380-44-279-6424",
+    "address": "12, Striletska st., 01054, Kyiv, UKRAINE"
   },
   {
-    "공관명": "주유엔 대한민국 대표부",
-    "전화번호": "(1-212)439-4000",
-    "주소": "335 East, 45th Street, New York, NY, 10017, U.S.A."
+    "mission_name": "주유엔 대한민국 대표부",
+    "phone_number": "(1-212)439-4000",
+    "address": "335 East, 45th Street, New York, NY, 10017, U.S.A."
   },
   {
-    "공관명": "주유네스코 대한민국 대표부",
-    "전화번호": "(33-1)4410-2400",
-    "주소": "100 Avenue de Suffren (6éme étage, Bâtiment B), 75015, Paris, France"
+    "mission_name": "주유네스코 대한민국 대표부",
+    "phone_number": "(33-1)4410-2400",
+    "address": "100 Avenue de Suffren (6éme étage, Bâtiment B), 75015, Paris, France"
   },
   {
-    "공관명": "주앵커리지 대한민국 출장소",
-    "전화번호": "(+1) 907-339-7955",
-    "주소": "800 E. Dimond Blvd., Suite 3-695, Anchorage, AK 99515, U.S.A"
+    "mission_name": "주앵커리지 대한민국 출장소",
+    "phone_number": "(+1) 907-339-7955",
+    "address": "800 E. Dimond Blvd., Suite 3-695, Anchorage, AK 99515, U.S.A"
   },
   {
-    "공관명": "주애틀랜타 대한민국 총영사관",
-    "전화번호": "(1-404) 522-1611~3",
-    "주소": "229 Peachtree St., Suite 2100, International tower, Atlanta, GA 30303. USA"
+    "mission_name": "주애틀랜타 대한민국 총영사관",
+    "phone_number": "(1-404) 522-1611~3",
+    "address": "229 Peachtree St., Suite 2100, International tower, Atlanta, GA 30303. USA"
   },
   {
-    "공관명": "주보스턴 대한민국 총영사관",
-    "전화번호": "(1-617) 641-2830",
-    "주소": "One Gateway Center Suite 251, 300 Washington Street, Newton, MA 02458, U.S.A."
+    "mission_name": "주보스턴 대한민국 총영사관",
+    "phone_number": "(1-617) 641-2830",
+    "address": "One Gateway Center Suite 251, 300 Washington Street, Newton, MA 02458, U.S.A."
   },
   {
-    "공관명": "주시카고 대한민국 총영사관",
-    "전화번호": "(1-312) 822-9485",
-    "주소": "NBC Tower Suite 2700, 455 North Cityfront Plaza Drive, Chicago, Illinois 60611 U.S.A."
+    "mission_name": "주시카고 대한민국 총영사관",
+    "phone_number": "(1-312) 822-9485",
+    "address": "NBC Tower Suite 2700, 455 North Cityfront Plaza Drive, Chicago, Illinois 60611 U.S.A."
   },
   {
-    "공관명": "주휴스턴 대한민국 총영사관 댈러스 출장소",
-    "전화번호": "(1 972) 701-0180~2",
-    "주소": "14001 Dallas Parkway Ste. 450, Dallas, TX 75240"
+    "mission_name": "주휴스턴 대한민국 총영사관 댈러스 출장소",
+    "phone_number": "(1 972) 701-0180~2",
+    "address": "14001 Dallas Parkway Ste. 450, Dallas, TX 75240"
   },
   {
-    "공관명": "주하갓냐 대한민국 출장소",
-    "전화번호": "(1-671) 647-6488~9",
-    "주소": "153 Zoilo St., Tamunning, Guam 96913 U.S.A."
+    "mission_name": "주하갓냐 대한민국 출장소",
+    "phone_number": "(1-671) 647-6488~9",
+    "address": "153 Zoilo St., Tamunning, Guam 96913 U.S.A."
   },
   {
-    "공관명": "주호놀룰루 대한민국 총영사관",
-    "전화번호": "(1-808) 595-6109 / 6274",
-    "주소": "2756 Pali Highway Honolulu, Hawaii 96817, U.S.A"
+    "mission_name": "주호놀룰루 대한민국 총영사관",
+    "phone_number": "(1-808) 595-6109 / 6274",
+    "address": "2756 Pali Highway Honolulu, Hawaii 96817, U.S.A"
   },
   {
-    "공관명": "주휴스턴 대한민국 총영사관",
-    "전화번호": "(1-713) 961-0186[대표]",
-    "주소": "1990 Post Oak Blvd Three Post Oak Central Suite #1250, Houston, Texas 77056, U.S.A."
+    "mission_name": "주휴스턴 대한민국 총영사관",
+    "phone_number": "(1-713) 961-0186[대표]",
+    "address": "1990 Post Oak Blvd Three Post Oak Central Suite #1250, Houston, Texas 77056, U.S.A."
   },
   {
-    "공관명": "주미국 대한민국 대사관",
-    "전화번호": "+1-202-939-5600",
-    "주소": "2450 Massachusetts Avenue, NW, Washington, D.C. 20008, U.S.A."
+    "mission_name": "주미국 대한민국 대사관",
+    "phone_number": "+1-202-939-5600",
+    "address": "2450 Massachusetts Avenue, NW, Washington, D.C. 20008, U.S.A."
   },
   {
-    "공관명": "주로스앤젤레스 대한민국 총영사관",
-    "전화번호": "(1-213) 385-9300",
-    "주소": "3243 Wilshire Blvd., Los Angeles, CA. 90010, U.S.A."
+    "mission_name": "주로스앤젤레스 대한민국 총영사관",
+    "phone_number": "(1-213) 385-9300",
+    "address": "3243 Wilshire Blvd., Los Angeles, CA. 90010, U.S.A."
   },
   {
-    "공관명": "주뉴욕 대한민국 총영사관",
-    "전화번호": "(1-646)-674-6000",
-    "주소": "460 Park Ave., 9th FL., New York, NY 10022, U.S.A."
+    "mission_name": "주뉴욕 대한민국 총영사관",
+    "phone_number": "(1-646)-674-6000",
+    "address": "460 Park Ave., 9th FL., New York, NY 10022, U.S.A."
   },
   {
-    "공관명": "주뉴욕 대한민국 총영사관 필라델피아 출장소",
-    "전화번호": "(1-267) 807-1830",
-    "주소": "1500 JOHN F KENNEDY BLVD, STE 1830, PHILADELPHIA, PA 19102"
+    "mission_name": "주뉴욕 대한민국 총영사관 필라델피아 출장소",
+    "phone_number": "(1-267) 807-1830",
+    "address": "1500 JOHN F KENNEDY BLVD, STE 1830, PHILADELPHIA, PA 19102"
   },
   {
-    "공관명": "주샌프란시스코 대한민국 총영사관",
-    "전화번호": "(1-415) 921-2251",
-    "주소": "3500 Clay Street, San Francisco, CA 94118, U.S.A"
+    "mission_name": "주샌프란시스코 대한민국 총영사관",
+    "phone_number": "(1-415) 921-2251",
+    "address": "3500 Clay Street, San Francisco, CA 94118, U.S.A"
   },
   {
-    "공관명": "주시애틀 대한민국 총영사관",
-    "전화번호": "(1-206) 441-1011~4",
-    "주소": "115 W.Mercer street, Seattle, WA 98119, U.S.A."
+    "mission_name": "주시애틀 대한민국 총영사관",
+    "phone_number": "(1-206) 441-1011~4",
+    "address": "115 W.Mercer street, Seattle, WA 98119, U.S.A."
   },
   {
-    "공관명": "주우루과이 대한민국 대사관",
-    "전화번호": "(598-2) 628-9374~5",
-    "주소": "Av. Luis Alberto de Herrera 1248, Torre II, Piso10(World Trade Center), Montevideo, Uruguay"
+    "mission_name": "주우루과이 대한민국 대사관",
+    "phone_number": "(598-2) 628-9374~5",
+    "address": "Av. Luis Alberto de Herrera 1248, Torre II, Piso10(World Trade Center), Montevideo, Uruguay"
   },
   {
-    "공관명": "주우즈베키스탄 대한민국 대사관",
-    "전화번호": "(998-71) 252-3151~3",
-    "주소": "Afrosiab St.7, Tashkent, Uzbekistan"
+    "mission_name": "주우즈베키스탄 대한민국 대사관",
+    "phone_number": "(998-71) 252-3151~3",
+    "address": "Afrosiab St.7, Tashkent, Uzbekistan"
   },
   {
-    "공관명": "주교황청 대한민국 대사관",
-    "전화번호": "(39-06) 331-4505",
-    "주소": "Via della Mendola 109, 00135 Rome, Italy"
+    "mission_name": "주교황청 대한민국 대사관",
+    "phone_number": "(39-06) 331-4505",
+    "address": "Via della Mendola 109, 00135 Rome, Italy"
   },
   {
-    "공관명": "주베네수엘라 대한민국 대사관",
-    "전화번호": "(58-212) 954-1270 1139 1006 0230",
-    "주소": "Av. Francisco de Miranda, Centro Lido, Torre B, Piso 9, Ofic. 91-92-B, El Rosal, Caracas, Venezuela"
+    "mission_name": "주베네수엘라 대한민국 대사관",
+    "phone_number": "(58-212) 954-1270 1139 1006 0230",
+    "address": "Av. Francisco de Miranda, Centro Lido, Torre B, Piso 9, Ofic. 91-92-B, El Rosal, Caracas, Venezuela"
   },
   {
-    "공관명": "주다낭 대한민국 총영사관",
-    "전화번호": "(+84) 23-6356-6100",
-    "주소": "3F, 4F Lot A1-2, Chuong Duong st, Khue My ward, Ngu Hanh Son district, Da Nang, Viet Nam"
+    "mission_name": "주다낭 대한민국 총영사관",
+    "phone_number": "(+84) 23-6356-6100",
+    "address": "3F, 4F Lot A1-2, Chuong Duong st, Khue My ward, Ngu Hanh Son district, Da Nang, Viet Nam"
   },
   {
-    "공관명": "주호치민 대한민국 총영사관",
-    "전화번호": "(84-28) 3824-8531~4(교환), (84-28) 3822-5757(자동응답)",
-    "주소": "107 Nguyen Du St., District 1, HCMC, VN"
+    "mission_name": "주호치민 대한민국 총영사관",
+    "phone_number": "(84-28) 3824-8531~4(교환), (84-28) 3822-5757(자동응답)",
+    "address": "107 Nguyen Du St., District 1, HCMC, VN"
   },
   {
-    "공관명": "주베트남 대한민국 대사관",
-    "전화번호": "(84-24) 3831-5110~6, (84-24) 3831-5125, (84-24) 3771-0404",
-    "주소": "SQ4 Diplomatic Complex, Nguyen Xuan Khoat St, Xuan Tao, Bac Tu Liem, Hanoi, Vietnam"
+    "mission_name": "주베트남 대한민국 대사관",
+    "phone_number": "(84-24) 3831-5110~6, (84-24) 3831-5125, (84-24) 3771-0404",
+    "address": "SQ4 Diplomatic Complex, Nguyen Xuan Khoat St, Xuan Tao, Bac Tu Liem, Hanoi, Vietnam"
   },
   {
-    "공관명": "주예멘 대한민국 대사관",
-    "전화번호": "(967-1)431-801/4,+966-11-488-2211",
-    "주소": "P.O.BOX 5005, House No.4(Off Iran Street), Hadda, Sana＇a, Republic of Yemen(Riyadh Temporary Office : Korean Embassy, P.O.Box 94399, Riyadh 11693, Saudi Arabia"
+    "mission_name": "주예멘 대한민국 대사관",
+    "phone_number": "(967-1)431-801/4,+966-11-488-2211",
+    "address": "P.O.BOX 5005, House No.4(Off Iran Street), Hadda, Sana＇a, Republic of Yemen(Riyadh Temporary Office : Korean Embassy, P.O.Box 94399, Riyadh 11693, Saudi Arabia"
   },
   {
-    "공관명": "주남아프리카공화국 대한민국 대사관",
-    "전화번호": "+27-(0)12- 460-2508",
-    "주소": "265 Melk Street, Nieuw Muckleneuk, Pretoria 0181, South Africa"
+    "mission_name": "주남아프리카공화국 대한민국 대사관",
+    "phone_number": "+27-(0)12- 460-2508",
+    "address": "265 Melk Street, Nieuw Muckleneuk, Pretoria 0181, South Africa"
   },
   {
-    "공관명": "주짐바브웨 대한민국 대사관",
-    "전화번호": "+263-242-756-542~3 / +263-242-756-553",
-    "주소": "1 Phillips Avenue, Belgravia, Harare, Zimbabwe"
+    "mission_name": "주짐바브웨 대한민국 대사관",
+    "phone_number": "+263-242-756-542~3 / +263-242-756-553",
+    "address": "1 Phillips Avenue, Belgravia, Harare, Zimbabwe"
   }
 ]
