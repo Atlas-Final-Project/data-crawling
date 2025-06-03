@@ -6,14 +6,13 @@ from bs4 import BeautifulSoup
 # Google 뉴스 RSS (전 세계)
 RSS_URL = "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
 
-# 사건·사고 및 질병 관련 키워드
-incident_keywords = {
-    "attack", "killed", "murder", "shooting", "explosion", "crash", "disaster",
-    "terror", "riot", "violence", "accident", "earthquake", "fire", "storm",
-    "protest", "assault", "hurricane", "drowning", "death", "injured",
-    "outbreak", "virus", "infection", "pandemic", "epidemic", "disease",
-    "flu", "covid", "ebola", "zika", "sars", "health", "vaccine", "contagion"
-}
+incident_keywords = [
+    "earthquake", "wildfire", "flood", "typhoon", "volcano", "landslide", "tsunami",
+    "shooting", "murder", "robbery", "kidnapping", "arson", "assault", "theft", "stabbing",
+    "covid", "pandemic", "outbreak", "infection", "quarantine", "virus", "epidemic",
+    "tourism", "festival", "sports", "economy", "culture", "event", "concert", "exhibition",
+    "traffic accident", "flight delay", "politics", "election", "weather", "storm", "road closure"
+]
 
 def clean_summary(html_summary):
     soup = BeautifulSoup(html_summary, "html.parser")
@@ -45,9 +44,8 @@ def crawl_google_news(limit=50, days=7):
             item = {
                 "title": entry.title,
                 "url": entry.link,
-                "summary": clean_summary(entry.summary),
+                "context": clean_summary(entry.summary),
                 "date": published.isoformat() if published else None,
-                "source": "Google News"
             }
             results.append(item)
             count += 1
