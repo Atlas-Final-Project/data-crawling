@@ -1,2 +1,3 @@
 *.pyc
 .env
+news_crawler.log
