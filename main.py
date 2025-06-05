@@ -10,6 +10,7 @@ import schedule
 from datetime import datetime, timedelta
 from crawl import UnifiedNewsCrawler
 from db import MongoDBManager
+from news_classification import NewsLocationExtractor
 
 
 # 로깅 설정
@@ -25,8 +26,8 @@ logging.basicConfig(
 # AP News 재시도 관리를 위한 전역 변수
 ap_retry_time = None
 
-def save_articles_to_db(articles, db_manager):
-    """기사를 MongoDB에 저장 (제목, 발행일, 본문, 소스만)"""
+def save_articles_to_db(articles, db_manager, location_extractor):
+    """기사를 MongoDB에 저장 (제목, 발행일, 본문, 소스, 위치 정보 포함)"""
     if not articles:
         logging.warning("저장할 기사가 없습니다.")
         return 0
@@ -51,14 +52,36 @@ def save_articles_to_db(articles, db_manager):
                     published = parsed_date.strftime('%Y-%m-%d %H:%M:%S')
                 except Exception:
                     published = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-            # 필요한 필드만 추출하여 간소화된 기사 데이터 생성 (국가와 카테고리 포함)
+            
+            # 위치 정보 추출
+            title = article.get('title', '')
+            content = article.get('content', '')
+            full_text = f"{title} {content}"
+            
+            locations = []
+            if full_text.strip():
+                try:
+                    extracted_locations = location_extractor.extract_locations(
+                        text=full_text, 
+                        min_score=0.9, 
+                        min_length=2
+                    )
+                    locations = [loc['word'] for loc in extracted_locations]
+                    if locations:
+                        logging.info(f"위치 추출 완료: {locations} - {title[:50]}...")
+                except Exception as e:
+                    logging.warning(f"위치 추출 중 오류: {e} - {title[:50]}...")
+                    locations = []
+            
+            # 필요한 필드만 추출하여 간소화된 기사 데이터 생성 (국가, 카테고리, 위치 포함)
             simplified_article = {
-                "title": article.get('title', ''),
+                "title": title,
                 "published": published,
-                "content": article.get('content', ''),
+                "content": content,
                 "source": article.get('source', 'Unknown'),
                 "category": article.get('category', 'General'),
                 "countries": article.get('countries', ['Unknown']),
+                "locations": locations,  # 새로 추가된 위치 정보
                 "crawled_at": datetime.now().isoformat()
             }
             # 제목과 소스를 기준으로 중복 확인 후 upsert (더 정확한 중복 처리)
@@ -88,6 +111,10 @@ def crawl_and_save():
     try:
         # 통합 크롤러 초기화
         unified_crawler = UnifiedNewsCrawler()
+        
+        # 위치 추출기 초기화
+        location_extractor = NewsLocationExtractor()
+        logging.info("📍 위치 추출기 초기화 완료")
         
         # MongoDB 연결 (환경변수 또는 기본값 사용)
         # MONGO_URI와 DATABASE_NAME을 .env 파일에 설정하거나
@@ -132,10 +159,9 @@ def crawl_and_save():
                     logging.warning(f"⚠️ AP News 429 에러 발생. 40분 후 재시도: {ap_retry_time.strftime('%Y-%m-%d %H:%M:%S')}")
                 else:
                     logging.error(f"{source.upper()} 크롤링 오류: {e}")
-                continue
-        # 수집된 기사를 DB에 저장
+                continue        # 수집된 기사를 DB에 저장
         if all_articles:
-            saved_count = save_articles_to_db(all_articles, db_manager)
+            saved_count = save_articles_to_db(all_articles, db_manager, location_extractor)
             logging.info(f"✅ 총 {len(all_articles)}개 기사 수집, {saved_count}개 DB 저장 완료")
         else:
             logging.warning("수집된 기사가 없습니다.")
