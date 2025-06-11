@@ -409,7 +409,6 @@ class MongoDBManager:
             
             data = []
             timestamp = datetime.now().isoformat() if add_timestamp else None
-            
             with open(csv_file_path, 'r', encoding=encoding, newline='') as file:
                 csv_reader = csv.DictReader(file, delimiter=delimiter)
                 
@@ -418,6 +417,13 @@ class MongoDBManager:
                     processed_row = {}
                     for key, value in row.items():
                         processed_row[key] = value if value.strip() != '' else None
+                    
+                    # 타임스탬프 추가 (필요한 경우)
+                    if add_timestamp and timestamp:
+                        processed_row['inserted_at'] = timestamp
+                    
+                    # 처리된 행을 데이터 리스트에 추가
+                    data.append(processed_row)
             
             # 데이터베이스에 삽입
             if not data:
