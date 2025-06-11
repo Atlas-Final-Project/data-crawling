@@ -52,7 +52,6 @@ def save_articles_to_db(articles, db_manager, location_extractor):
                     published = parsed_date.strftime('%Y-%m-%d %H:%M:%S')
                 except Exception:
                     published = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-            
             # 위치 정보 추출
             title = article.get('title', '')
             content = article.get('content', '')
@@ -68,9 +67,11 @@ def save_articles_to_db(articles, db_manager, location_extractor):
                     )
                     locations = [loc['word'] for loc in extracted_locations]
                     if locations:
-                        logging.info(f"위치 추출 완료: {locations} - {title[:50]}...")
+                        logging.info(f"📍 위치 추출 완료: {locations} - {title[:50]}...")
+                    else:
+                        logging.debug(f"📍 위치 추출 결과 없음 - {title[:50]}...")
                 except Exception as e:
-                    logging.warning(f"위치 추출 중 오류: {e} - {title[:50]}...")
+                    logging.warning(f"⚠️ 위치 추출 중 오류: {e} - {title[:50]}...")
                     locations = []
             
             # 필요한 필드만 추출하여 간소화된 기사 데이터 생성 (국가, 카테고리, 위치 포함)
@@ -129,9 +130,10 @@ def crawl_and_save():
         
         logging.info("모든 소스에서 크롤링 시작...")
         all_articles = []
-        
-        # 각 소스별로 개별 크롤링
+          # 각 소스별로 개별 크롤링
         sources = ['bbc', 'fox', 'ap']
+        source_stats = {}  # 소스별 통계 저장
+        
         for source in sources:
             try:
                 # AP News의 경우 재시도 시간 체크
@@ -139,32 +141,82 @@ def crawl_and_save():
                     current_time = datetime.now()
                     if current_time < ap_retry_time:
                         remaining_minutes = int((ap_retry_time - current_time).total_seconds() / 60)
-                        logging.info(f"AP News 재시도 대기 중... 남은 시간: {remaining_minutes}분")
+                        logging.info(f"📍 AP News 재시도 대기 중... 남은 시간: {remaining_minutes}분")
+                        source_stats[source] = {'status': 'skipped', 'count': 0, 'reason': f'재시도 대기 ({remaining_minutes}분 남음)'}
                         continue
                     else:
                         # 재시도 시간이 지나면 초기화
                         ap_retry_time = None
-                        logging.info("AP News 재시도 시간이 되었습니다. 크롤링을 재개합니다.")
+                        logging.info("✅ AP News 재시도 시간이 되었습니다. 크롤링을 재개합니다.")
                 
-                logging.info(f"{source.upper()} 크롤링 시작...")
+                logging.info(f"🔍 {source.upper()} 크롤링 시작... (최대 {max_articles_per_source}개)")
+                
+                start_time = datetime.now()
                 articles = unified_crawler.crawl_single(source, max_articles_per_source)
+                end_time = datetime.now()
+                
+                crawl_duration = (end_time - start_time).total_seconds()
+                
                 all_articles.extend(articles)
-                logging.info(f"{source.upper()} 크롤링 완료: {len(articles)}개 기사")
+                source_stats[source] = {
+                    'status': 'success', 
+                    'count': len(articles), 
+                    'duration': f"{crawl_duration:.1f}초"
+                }
+                
+                logging.info(f"✅ {source.upper()} 크롤링 완료: {len(articles)}개 기사 ({crawl_duration:.1f}초 소요)")
                 
             except Exception as e:
                 error_msg = str(e)
                 if source == 'ap' and "AP_NEWS_429_ERROR" in error_msg:
                     # AP News 429 에러 처리
                     ap_retry_time = datetime.now() + timedelta(minutes=40)
+                    source_stats[source] = {
+                        'status': 'error', 
+                        'count': 0, 
+                        'reason': f'429 에러 - 40분 후 재시도'
+                    }
                     logging.warning(f"⚠️ AP News 429 에러 발생. 40분 후 재시도: {ap_retry_time.strftime('%Y-%m-%d %H:%M:%S')}")
                 else:
-                    logging.error(f"{source.upper()} 크롤링 오류: {e}")
+                    source_stats[source] = {
+                        'status': 'error', 
+                        'count': 0, 
+                        'reason': str(e)
+                    }
+                    logging.error(f"❌ {source.upper()} 크롤링 오류: {e}")
                 continue        # 수집된 기사를 DB에 저장
         if all_articles:
+            # 소스별 통계 출력
+            logging.info("=" * 60)
+            logging.info("📊 소스별 크롤링 결과:")
+            total_success = 0
+            for source, stats in source_stats.items():
+                status_emoji = {"success": "✅", "error": "❌", "skipped": "⏸️"}.get(stats['status'], "❓")
+                if stats['status'] == 'success':
+                    logging.info(f"  {status_emoji} {source.upper()}: {stats['count']}개 기사 ({stats['duration']})")
+                    total_success += stats['count']
+                elif stats['status'] == 'error':
+                    logging.info(f"  {status_emoji} {source.upper()}: 0개 기사 - {stats['reason']}")
+                elif stats['status'] == 'skipped':
+                    logging.info(f"  {status_emoji} {source.upper()}: 건너뜀 - {stats['reason']}")
+            
+            logging.info(f"📈 총 수집: {len(all_articles)}개 기사 (성공: {total_success}개)")
+            logging.info("=" * 60)
+            
             saved_count = save_articles_to_db(all_articles, db_manager, location_extractor)
             logging.info(f"✅ 총 {len(all_articles)}개 기사 수집, {saved_count}개 DB 저장 완료")
         else:
-            logging.warning("수집된 기사가 없습니다.")
+            # 크롤링 실패 상황도 상세히 로깅
+            logging.warning("=" * 60)
+            logging.warning("⚠️ 수집된 기사가 없습니다.")
+            logging.warning("소스별 상태:")
+            for source, stats in source_stats.items():
+                status_emoji = {"success": "✅", "error": "❌", "skipped": "⏸️"}.get(stats['status'], "❓")
+                if stats['status'] == 'error':
+                    logging.warning(f"  {status_emoji} {source.upper()}: {stats['reason']}")
+                elif stats['status'] == 'skipped':
+                    logging.warning(f"  {status_emoji} {source.upper()}: {stats['reason']}")
+            logging.warning("=" * 60)
         
         # DB 연결 종료
         db_manager.close_connection()
